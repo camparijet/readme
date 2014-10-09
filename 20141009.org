@@ -19,15 +19,18 @@
    #+END_EXAMPLE
 * How to represented tag?							 :awesome:
 ** Color Class 								 :imageprocessing:
-   #+BEGIN_SRC dot :file hoge.svg
+   #+BEGIN_SRC dot :file hoge.svg :file foo.png
      digraph {
        RGB -> CMYK;
        CMYK -> HSL;
      }
    #+END_SRC
 
+   [[file:foo.png]]
+
 
    [[file:hoge.svg]]
 
    If it displays *hoge.svg* correctly, I will become one of sincere babel-mode users.
+   -> We found github doesn't seem to support svg format dispaly, we can use png alternatively.
    
