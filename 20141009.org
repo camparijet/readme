@@ -2,7 +2,11 @@
   Here is my first diary on github.
 ** image test
    can I refer Image test?
-   - [[http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png][lena.jpg]]
+   - [[http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png]]
+   - be careful, if you use usual link in org mode, parser recognize your root as values in github repo
+     - /USER_NAME/CURRENT_REPOSITORY/RAW/CURENT_BRANCH/YOUR_FILE_PATH_INDICATED
+     - If you use {{Lenna.png}}, /camparijet/tiny-diary/raw/master/Lenna.png
+
 ** snipet
    #+BEGIN_SRC lisp
    (message "Hi, Helo, やあ.")
