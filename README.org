@@ -1,0 +1,10 @@
+#+TITLE: Einszwigdrimoooooooon 
+#+AUTHOR: Hideki Takeoka (a.k.a [cC]ampari[jJ]et)
+
+* Tiny Diary
+  Tiny Diary in org-mode.
+  
+* TODO [#A] cv (curriculum vitae)
+  DEADLINE: <2014-10-31 Fri>
+  Coming Soon...(X_X)
+
