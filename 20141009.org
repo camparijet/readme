@@ -1,0 +1,16 @@
+* Hello, World
+  Here is my first diary on github.
+** image test
+   can I refer Image test?
+   - [[http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png][lena.jpg]]
+** snipet
+   #+BEGIN_SRC lisp
+   (message "Hi, Helo, やあ.")
+   #+END_SRC
+** example
+   #+BEGIN_EXAMPLE
+   おはよう
+   早安
+   안녕
+   #+END_EXAMPLE
+
