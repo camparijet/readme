@@ -1,4 +1,3 @@
-#+TITLE: Einszwigdrimoooooooon 
 #+AUTHOR: Hideki Takeoka (a.k.a [cC]ampari[jJ]et)
 
 * Tiny Diary
@@ -8,3 +7,8 @@
   DEADLINE: <2014-10-31 Fri>
   Coming Soon...(X_X)
 
+* Orgmode in github
+  I found mail archieve here:
+  https://lists.gnu.org/archive/html/emacs-orgmode/2011-10/msg00293.html
+  
+  
