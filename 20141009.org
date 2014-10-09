@@ -17,4 +17,17 @@
    早安
    안녕
    #+END_EXAMPLE
+* How to represented tag?							 :awesome:
+** Color Class 								 :imageprocessing:
+   #+BEGIN_SRC dot :file hoge.svg
+     digraph {
+       RGB -> CMYK;
+       CMYK -> HSL;
+     }
+   #+END_SRC
 
+   #+RESULTS:
+   [[file:hoge.svg]]
+
+   If it displays *hoge.svg* correctly, I will become one of sincere babel-mode users.
+   
