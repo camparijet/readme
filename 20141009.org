@@ -26,11 +26,11 @@
      }
    #+END_SRC
 
-   #+RESULTS:
    [[file:./image/sample/foo.png]]
+
 
    - If it displays *hoge.svg* correctly, I will become one of sincere babel-mode users.
      - > We found github doesn't seem to support svg format dispaly, we can use png alternatively.
-     - > And don't put parameters *:file* in the style of relative file path missing first *./*. It is not recognized.
+     - > And don't put parameters *:file* in thea style of relative file path missing first *./*. It is not recognized.
    
    
