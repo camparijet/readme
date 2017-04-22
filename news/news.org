@@ -223,3 +223,49 @@ one,six, and seven zero! heart rushing, starting to sweat and then feeling happy
 *** misspell								    :private:
     - Josef-Orlopp-Sraße
       - Josef-Orlopp-Straße
+* DONE translation: [2017-04-22 Sat 16:21] 
+  CLOSED: [2017-04-22 Sat 16:53]
+** AfD-Parteitag in Köln: Erste Rangeleien und ein verletzter Polizist | AfD-
+*** AfD-Parteitag in Köln: Erste Rangeleien und ein verletzter Polizist | AfD's party-day in Köln: afirst fighting incident, and then police are injured | AfD 党集会（開催地：ケルン）：もみあいになり、警官が負傷
+    
+    Köln im Ausnahmezustand! Rund um den Veranstaltungsort des AfD-Parteitages am Heumarkt waren am Samstag Hunderte Demonstranten aufgezogen, die mit Sprechchören, Transparenten, Pfiffen und Blockaden gegen die rechtspopulistischen Politiker protestierten. Dabei kam es immer wieder zu Rangeleien mit der Polizei.
+    
+ (quoted: [[http://www.bz-berlin.de/deutschland/afd-parteitag-in-koeln-erste-rangeleien-und-ein-verletzter-polizist][B.Z. Berlin]])
+
+*** translation
+    Köln is now in the state of emergency! Hundreds of demonstraters gathered around the organization place of AfD-party day at Hemarkt on Saturday. The demonstraters protested against the right-wing politicians with shouting in chorus, showing banner, whistling and blockading.
+
+*** 翻訳
+    ケルンで非常事態宣言！土曜日、AfDの党集会が行われるHemarktへ数百人ものデモ参加者が集まってきた。デモ参加者達はシュプレッヒコールを浴びせ、垂れ幕をかかげ、ピーピー音をならし、バリケードを作ってタカ派の政治家たちに抵抗の意を示した。
+
+*** words
+    - die Rangelei
+      - fighting
+    - verletzter
+      - wounded
+    - Ausnahmezustand
+      - state of emergency
+      - ausnahmen
+    - Rund
+      - round
+    - Veranstaltungsort
+      - Veranstaltung
+	- organization
+      - Ort
+	- place
+    - Heumarkt
+      - (地名)
+    - aufgezogen
+      - aufziehen
+	- gather / come up
+    - Sprechchören
+      - pl. Sprechchor
+	- シュプレッヒコール
+    - Transparenten
+      - banner
+	- 垂れ幕
+    - Pfiffen
+      - whistling
+    - Blockaden
+      - blockade
+	- バリケード
