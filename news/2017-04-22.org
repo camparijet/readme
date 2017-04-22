@@ -1,0 +1,28 @@
+* Plötzlich wurden zwei Schüsse auf einen BVG-Bus abgefeuert | suddenly two shoots were fired at the BVG bus | BVGバス、突然二発発砲を受ける
+一応ドイツでは日本と同じく銃の所持自体が違法だったと思います。（曖昧）
+** news
+ Schreck in der Nacht! Ein 27-jähriger Fahrer fuhr gegen 2.30 Uhr mit der Nachtbuslinie N50 auf der Josef-Orlopp-Sraße entlang, als er plötzlich zwei laute Knallgeräusche hörte. Daraufhin stoppte er den Bus.
+(quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78%3D_15b94addbd6:124eba0:31944e30][B.Z. Berlin]])
+** translation
+Schock in the night! 27-year-old Driver drove along around 2:30 with a night bus line (N50)  on the Josef-Orlopp-Sraße(?) entlang, when he suddenly heard two loud popping sounds. So, he stopped the bus.
+** 翻訳
+真夜中の衝撃！ナイトバス（N50）２：３０頃Josef-Orlopp-Straßeを27歳の運転手が運転していたところ、いきなり2発の大きな発砲音が聞こえてきた。そこで彼はバスを停め...(続きはリンク先
+** word
+- plötzlich
+  - sudden
+- Schüsse
+  - pl. Schuss
+    - shoot
+- abgefeuert
+  - abfeuern
+    - fire (shoots)
+- der Schreck
+  - scare, schok
+- fuhr - entlang
+  - fuhr
+    - fahren (Prät)
+  - entlangfahren
+    - drive along
+- Knallgeräusche
+  - popping sounds
+- auf hin stoppen
