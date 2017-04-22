@@ -7,7 +7,7 @@
 *** quote
 Der Sportartikelhersteller Adidas hat sich für eine Marketing-E-Mail entschuldigt, in der Kunden für das „Überleben”des diesjährigen Boston-Marathons beglückwünscht wurden.
 
-(quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b852fa5ca:24d193d:cfb784e9][B.Z. Berlin]])
+(quoted: [[http://www.bz-berlin.de/panorama/adidas-entschuldigt-sich-fuer-peinliche-werbe-mail-zum-boston-marathon][B.Z. Berlin]])
 
 *** translation
 The sports maker Adidas excused for the marketing email, where customers are conguratulated on customer's being alive until this Boston-Marathon-year.
@@ -39,7 +39,7 @@ The sports maker Adidas excused for the marketing email, where customers are con
 
 Auch die dicksten Bunkerwänden schützen nicht vor Hacker-Angriffen. Das musste jetzt Berlin Story im Bunker am Anhalter Bahnhof erfahren.
 
-quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b84d69a1d:25016eb:452180c4][B.Z. Berlin]]
+quoted: [[http://www.bz-berlin.de/berlin/friedrichshain-kreuzberg/hacker-angriff-auf-berlin-story-saemtliche-daten-weg][B.Z. Berlin]]
 
 *** translation
 The thickest shelter-wall neither protects hacker attack. Now Berlin Story (webservice) must find out them in the shelter at the "Anhalter Bahnhof"(station).
@@ -76,7 +76,7 @@ The thickest shelter-wall neither protects hacker attack. Now Berlin Story (webs
 
 Wieder beschäftigt sich die Staatsanwaltschaft mit Bushido (38). Doch dieses Mal ist der Rapper nicht der Verdächtige – sondern die Polizei. Bushido erstattete eine Anzeige wegen Verfolgung Unschuldiger, Beleidigung und Verleumdung.
 
-quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b7fa76938:1a3ab8c:afcb5334][B.Z. Berlin]]
+quoted: [[http://www.bz-berlin.de/berlin/bushido-rechts-zeigt-die-polizei-wegen-phantombild-links-an][B.Z. Berlin]]
 
 *** translation
 Prosecutor's office is occupied with Bushido again, but this time this Rapper is not a suspect but Police is suspect. Bushido reports pursuit against innocence person and libel to the prosecutors.
@@ -128,7 +128,7 @@ Prosecutor's office is occupied with Bushido again, but this time this Rapper is
 *** quote
 Vor zehn Tagen zündeten Unbekannte die Sprengsätze vor dem Mannschaftsbus von Borussia Dortmund. Der Spieler Marc Batra wurde schwer verletzt. Der Rest der Spieler, der auf dem Weg zum Champions League Spiel gegen Monaco war, hatte Glück, weil die Bomben eine Sekunde zu spät explodierten.
 
-(quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b8ed37f92:9532aa:e55a4d93][B.Z. Berlin]])
+(quoted: [[http://www.bz-berlin.de/deutschland/anschlag-auf-bvb-bus-polizei-fasst-tatverdaechtigen][B.Z. Berlin]])
 
 *** translation
 10 days ago, Someone ignite the explosion device in front of BVB(famous football team)'s team bus .
@@ -169,7 +169,7 @@ The other players , who were on the way to the Champion League game against Mona
 *** quoted
 Eine sechs und sieben Nullen! Herzrasen, Schweißausbruch, Glücksgefühle! Jens Neumann (43) aus Berlin Malchow war Multimillionär. Im Euro-Lotto hatte der Maurer 60 Millionen gewonnen. Glaubte er. Doch die Zeitung, in der er die Zahlen verglich, hatte die Nummern der vergangenen Woche gedruckt…
 
-(quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b8e80cc6e:922dbb:31944e30][B.Z. Berlin]])
+(quoted: [[http://www.bz-berlin.de/berlin/lichtenberg/nach-10-minuten-waren-seine-60-lotto-millionen-wieder-weg][B.Z. Berlin]])
 
 *** translation
 one,six, and seven zero! heart rushing, starting to sweat and then feeling happy! Jens Neumann (43) from Berlin Malchow was multi-Millionaire. In Euro-Lotte, the bricklayer had won 60 Million Euro.He thought. but the newspaper, in which he compares the numbers, printed out the number the last week.
@@ -196,7 +196,7 @@ one,six, and seven zero! heart rushing, starting to sweat and then feeling happy
    一応ドイツでは日本と同じく銃の所持自体が違法だったと思います。（曖昧）
 *** news
     Schreck in der Nacht! Ein 27-jähriger Fahrer fuhr gegen 2.30 Uhr mit der Nachtbuslinie N50 auf der Josef-Orlopp-Sraße entlang, als er plötzlich zwei laute Knallgeräusche hörte. Daraufhin stoppte er den Bus.
-   (quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78%3D_15b94addbd6:124eba0:31944e30][B.Z. Berlin]])
+   (quoted: [[http://www.bz-berlin.de/berlin/lichtenberg/ploetzlich-wurden-zwei-schuesse-auf-einen-bvg-bus-abgefeuert][B.Z. Berlin]])
 *** translation
     Schock in the night! 27-year-old Driver drove along around 2:30 with a night bus line (N50)  on the Josef-Orlopp-Sraße(?) entlang, when he suddenly heard two loud popping sounds. So, he stopped the bus.
 *** 翻訳
