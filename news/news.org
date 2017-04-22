@@ -1,0 +1,190 @@
+#+TITLE: Original Source
+#+EXCLUDE_TAGS: private confidential draft
+#+OPTIONS: author:nil creator:nil timestamp:nil num:nil toc:nil todo:nil <:nil ^:nil
+* Adidas entschuldigt sich für peinliche Werbe-Mail zum Boston-Marathon
+** Adidas entschuldigt sich für peinliche Werbe-Mail zum Boston-Marathon | アディダス、不適切ななボストンマラソンに関する広告メールを謝罪
+   DM怖い、という話を一つ。
+*** quote
+Der Sportartikelhersteller Adidas hat sich für eine Marketing-E-Mail entschuldigt, in der Kunden für das „Überleben”des diesjährigen Boston-Marathons beglückwünscht wurden.
+
+(quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b852fa5ca:24d193d:cfb784e9][B.Z. Berlin]])
+
+*** translation
+The sports maker Adidas excused for the marketing email, where customers are conguratulated on customer's being alive until this Boston-Marathon-year.
+
+*** 翻訳
+スポーツメーカのアディダスはEmail広告に関して謝罪した。対象の広告は、今年のボストンマラソンまで生き残ったね、おめでとう！といった内容だった。
+
+*** word
+- der Sportartikelhersteller
+  - Sport
+    - sports
+  - Artikel
+    - item (article in English also means item)
+  - Hersteller
+    - manufacture
+  - herstellen
+    - produce
+- Überleben
+  - survival
+- beglückwünscht
+  - congratulate
+
+* Hacker-Angriff auf Berlin Story! Sämtliche Daten weg
+** Hacker-Angriff auf Berlin Story! Sämtliche Daten weg | Berlin Storyにサイバー攻撃！すべてのデータが盗まれる
+
+   久しぶりのサイバー攻撃絡みのトピック。Anhalter Bahnhofに関してはあまり詳しく無いので時間ができたら何か読んでみよう。
+
+*** quote
+
+Auch die dicksten Bunkerwänden schützen nicht vor Hacker-Angriffen. Das musste jetzt Berlin Story im Bunker am Anhalter Bahnhof erfahren.
+
+quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b84d69a1d:25016eb:452180c4][B.Z. Berlin]]
+
+*** translation
+The thickest shelter-wall neither protects hacker attack. Now Berlin Story (webservice) must find out them in the shelter at the "Anhalter Bahnhof"(station).
+*** 翻訳
+もっとも強固な防壁でもハッカーの攻撃を防ぐことはできなかった。今、Berlin StoryはAnhalter Bahnhof強固な防壁の中で捜索するべきだ。
+
+*** word
+- Berlin Story
+  - Berlin Story is a website ([[https://www.berlinstory.de/]])
+- sämtlich
+  - all the ~
+- dicksten
+  - thickest
+- Bunkerwänden
+  - silo bunker (shelter バンカー)
+  - air-raid shelter
+- erfahren
+  - find out
+  - experience
+- Hackepr-Angriffen
+  - Hacker
+    - hacker
+  - Angriffen
+    - der Angrif
+      - attack
+- Bunker
+
+* Bushido (rechts) zeigt die Polizei wegen Phantombild (links) an
+** Bushido (rechts) zeigt die Polizei wegen Phantombild (links) an | 何かと話題のラッパー、Bushidoさん（右写真）が目撃写真（左写真）について警察を相手取り訴訟か
+
+   同僚から聞いたことのある名前だったので思わず二度見した。
+
+*** quoted
+
+Wieder beschäftigt sich die Staatsanwaltschaft mit Bushido (38). Doch dieses Mal ist der Rapper nicht der Verdächtige – sondern die Polizei. Bushido erstattete eine Anzeige wegen Verfolgung Unschuldiger, Beleidigung und Verleumdung.
+
+quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b7fa76938:1a3ab8c:afcb5334][B.Z. Berlin]]
+
+*** translation
+Prosecutor's office is occupied with Bushido again, but this time this Rapper is not a suspect but Police is suspect. Bushido reports pursuit against innocence person and libel to the prosecutors.
+
+*** 翻訳                                                                           :ja:
+またもやBushido （38歳）[訳注：ラッパー]が検察を騒がせているそうだ。しかしながら今回は彼が被疑者としてではなく、警察が被疑者だ。Bushidoは冤罪、名誉毀損などを訴えている。
+*** word
+- anzeigen
+  - report
+- Wieder
+  - wieder again
+- beschäftigt sich
+  - sich beschäftigen
+    - occupy
+  - die Staatsanwaltschaft
+    - public prosecutor's office
+      - prosecutor
+        - 検事
+- Verdächtige
+  - suspect
+- sondern
+  - nicht A, sondern B
+    - not A, but B
+- die Polizei
+  - the police
+- eine Anzeige erstattete
+  - report ( to the the police)
+  - erstatten
+    - reimburse
+      - 費用を返済する
+- wegen
+  - because of
+- Verfolgung
+  - pursuit
+- Unschuldiger
+  - innocent
+- Beleidigung
+  - insult
+  - slander
+    - 中傷
+- Verleumdung
+  - slander
+    - 中傷
+  - libel
+    - 名誉毀損
+* translation
+** Anschlag auf BVB-Bus: Polizei fasst Tatverdächtigen! | BVBバス爆破事件：警察が実行犯とみられる人物を逮捕
+   BVBのファンって他のブンデスリーガー達より熱烈なのでこの後の報復とかにつながって不の連鎖が始まらないといいな。
+*** quote
+Vor zehn Tagen zündeten Unbekannte die Sprengsätze vor dem Mannschaftsbus von Borussia Dortmund. Der Spieler Marc Batra wurde schwer verletzt. Der Rest der Spieler, der auf dem Weg zum Champions League Spiel gegen Monaco war, hatte Glück, weil die Bomben eine Sekunde zu spät explodierten.
+
+(quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b8ed37f92:9532aa:e55a4d93][B.Z. Berlin]])
+
+*** translation
+10 days ago, Someone ignite the explosion device in front of BVB(famous football team)'s team bus .
+One of the player, Marc Batra was severely injured.
+The other players , who were on the way to the Champion League game against Monaco, were so lucky that the bomb exploded later by a second .
+
+*** translation                                                                  :ja:
+10日前、BVB（ドイツサッカーのトップリーグで人気のサッカーチーム）のバスの前で、何者かによる爆破事件が起きた。
+チームはヨーロッパチャンピオンリーグでMonacoとの対戦に向かっている途中だった。Marc Batra選手が重傷を負った。その他のチームは幸運にも最悪のタイミングでの爆発ではなかったため、無事であった。
+
+*** word
+- Anschlag
+  - aiming position
+- fassst
+  - fassen
+    - catch / grasp
+- Tatverdächtigen
+  - Tat
+    - action
+  - verdächtigen
+    - suspect
+- zündeten
+  - zünden
+    - ignite
+- Sprengsätze
+  - explosion-device
+    - sprengen
+      - blow up
+    - Satz
+      - setting
+- Mannschaftsbus
+  - team bus
+* translation: [2017-04-21 Fri 11:37]
+** Nach 10 Minuten waren seine 60 Lotto-Millionen wieder weg | 10分で６億ユーロの宝くじ当選が夢と消えた話
+
+   最初何を言っているかよく分からず確認したら、Kiosk（コンビニ）で売ってる宝くじの話でした。なかなか面白いお話です。
+
+*** quoted
+Eine sechs und sieben Nullen! Herzrasen, Schweißausbruch, Glücksgefühle! Jens Neumann (43) aus Berlin Malchow war Multimillionär. Im Euro-Lotto hatte der Maurer 60 Millionen gewonnen. Glaubte er. Doch die Zeitung, in der er die Zahlen verglich, hatte die Nummern der vergangenen Woche gedruckt…
+
+(quoted: [[https://feedly.com/i/entry/fumNKuiS6uC4yNdlVBT7AtIaE0JCQ7BG9hhaIzlEu78=_15b8e80cc6e:922dbb:31944e30][B.Z. Berlin]])
+
+*** translation
+one,six, and seven zero! heart rushing, starting to sweat and then feeling happy! Jens Neumann (43) from Berlin Malchow was multi-Millionaire. In Euro-Lotte, the bricklayer had won 60 Million Euro.He thought. but the newspaper, in which he compares the numbers, printed out the number the last week.
+
+*** 翻訳
+１、６、７、０！心臓がばくばくいって、汗がとまらない。そしてだんだん幸福感につつまれていく。ベルリンのMalchow出身のJens Neumannさん43歳は、Euro-Lotteの連続当選を経験している。この石工さん、EuroLotteで６億ユーロの当選をした。と、彼は思ったのだが。。実は確認した新聞が先週の当選番号を間違って掲載していたため（続きはWEBで）
+
+*** words
+- wieder weg
+- Herzrasen
+  - Herz
+    - heart
+  - rasen
+    - rush
+- Schweißausbruch
+  - start to sweat
+- Glücksgefühle
+  - feeling of happiness
