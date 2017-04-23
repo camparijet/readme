@@ -191,7 +191,7 @@ one,six, and seven zero! heart rushing, starting to sweat and then feeling happy
 
 * DONE translation: [2017-04-22 Sat 15:05] 
   CLOSED: [2017-04-22 Sat 15:28]
-  CLOCK: [2017-04-22 Sat 15:12]
+  CLOCK: [2017-04-22 Sat 15:12]--[2017-04-23 Sun 22:36] => 31:24
 ** Plötzlich wurden zwei Schüsse auf einen BVG-Bus abgefeuert | suddenly two shoots were fired at the BVG bus | BVGバス、突然二発発砲を受ける
    一応ドイツでは日本と同じく銃の所持自体が違法だったと思います。（曖昧）
 *** news
@@ -269,3 +269,40 @@ one,six, and seven zero! heart rushing, starting to sweat and then feeling happy
     - Blockaden
       - blockade
 	- バリケード
+* translation: [2017-04-23 Sun 10:45]
+** Alkoholisiert in den Gegenverkehr: Ein Toter
+
+Der Unfall ereignete sich gegen 22:00 Uhr auf der Schwanebecker Chaussee. Nach bisherigen Informationen kam der 64-jährige Fahrer eines Skoda mit seinem PKW von der Spur ab und geriet in den Gegenverkehr. Dort stieß er dann frontal mit dem Pkw eines 73-Jährigen zusammen.
+
+Der Unfall ereignete sich gegen 22:00 Uhr auf der Schwanebecker Chaussee. Nach bisherigen Informationen kam der 64-jährige Fahrer eines Skoda mit seinem PKW von der Spur ab und geriet in den Gegenverkehr. Dort stieß er dann frontal mit dem Pkw eines 73-Jährigen zusammen.
+Der Unfall ereignete sich gegen 22:00 Uhr auf der Schwanebecker Chaussee. Nach bisherigen Informationen kam der 64-jährige Fahrer eines Skoda mit seinem PKW von der Spur ab und geriet in den Gegenverkehr. Dort stieß er dann frontal mit dem Pkw eines 73-Jährigen zusammen.
+
+- gegenverhkehr
+  - oncoming traffic
+  Alkoholisiert
+* translation
+  CLOCK: [2017-04-23 Sun 22:36]--[2017-04-23 Sun 23:18] =>  0:42
+** Kriminalitätsstatistik: Zahl der tatverdächtigen Zuwanderer enorm gestiegen | Crime statistic: the number of suspected immigrants grew enormously | 犯罪統計：被疑者となった移民が大きく増加
+   あえて難民問題の文脈でCDUがどう発表するか、興味があります。
+*** news
+    So wird am Montag Thomas de Maizière zusammen mit Sachsens Innenminister Markus Ulbig (beide CDU) in Berlin offiziell die Ergebnisse präsentieren, die der Welt vorab vorliegen.
+    (quoted [[http://www.bz-berlin.de/deutschland/kriminalitaetsstatistik-zahl-der-tatverdaechtigen-zuwanderer-enorm-gestiegen][B.Z. Berelin]])
+*** translation
+    on Monday, Thomas de Maizière together with Sachsens Innenminister Markus Ulbig (both CDU) will do officially presentation of the result in Berlin, where the world beforehand were present.
+*** translation
+    月曜日、Thomas de Maizière と Sachsens Innenministerの Markus Ulbig（ともに政党はCDU）の両者は表題の結果（世界が直面している問題）に関し、ベルリンで公式に説明する。
+*** words
+    - Kriminalitätsstatistik
+      - Kriminalität
+	- crime
+      - statistik
+	- statistic
+    - Tatverdächtigen
+      - tatverdächtig
+	- suspected
+    - Zuwanderer
+      - immigrant
+    - enorm
+      - enormous
+    - gestiegen
+      - steigen

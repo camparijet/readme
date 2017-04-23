@@ -1,0 +1,24 @@
+* Kriminalitätsstatistik: Zahl der tatverdächtigen Zuwanderer enorm gestiegen | Crime statistic: the number of suspected immigrants grew enormously | 犯罪統計：被疑者となった移民が大きく増加
+あえて難民問題の文脈でCDUがどう発表するか、興味があります。
+** news
+So wird am Montag Thomas de Maizière zusammen mit Sachsens Innenminister Markus Ulbig (beide CDU) in Berlin offiziell die Ergebnisse präsentieren, die der Welt vorab vorliegen.
+(quoted [[http://www.bz-berlin.de/deutschland/kriminalitaetsstatistik-zahl-der-tatverdaechtigen-zuwanderer-enorm-gestiegen][B.Z. Berelin]])
+** translation
+on Monday, Thomas de Maizière together with Sachsens Innenminister Markus Ulbig (both CDU) will do officially presentation of the result in Berlin, where the world beforehand were present.
+** translation
+月曜日、Thomas de Maizière と Sachsens Innenministerの Markus Ulbig（ともに政党はCDU）の両者は表題の結果（世界が直面している問題）に関し、ベルリンで公式に説明する。
+** words
+- Kriminalitätsstatistik
+  - Kriminalität
+    - crime
+  - statistik
+    - statistic
+- Tatverdächtigen
+  - tatverdächtig
+    - suspected
+- Zuwanderer
+  - immigrant
+- enorm
+  - enormous
+- gestiegen
+  - steigen
