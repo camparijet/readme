@@ -1,0 +1,193 @@
+
+
+* B.Z. Berlin
+
+  :FEEDSTATUS:
+(("http://www.bz-berlin.de/?p=3436486" t "79476242ad48d5691c716653dc30248b1a685cfb")
+ ("http://www.bz-berlin.de/?p=3436497" t "72595971b7bbf684f69106d20f1e52a8286ce3bf")
+ ("http://www.bz-berlin.de/?p=3436456" t "288bb049e0613ffdf3b23cc977fe6d6f0e59f4c9")
+ ("http://www.bz-berlin.de/?p=3436625" t "5406868b69ca24c6be888a4682d658e0dbaa987e")
+ ("http://www.bz-berlin.de/?p=3436615" t "d061414d007d6979db0347dadeefc72c25d09d8b")
+ ("http://www.bz-berlin.de/?p=3436098" t "cd8bb4e0f1e23f6c61792fea06ae50b9db4a65c7")
+ ("http://www.bz-berlin.de/?p=3436599" t "e37540fe3148bd8f5485634226e6917a6d9a1330")
+ ("http://www.bz-berlin.de/?p=3436588" t "7bb003fa958eb33ef649f053e40799877d020ecd")
+ ("http://www.bz-berlin.de/?p=3436578" t "771903992c37548ef8cedd8365ecaeaf017f2324")
+ ("http://www.bz-berlin.de/?p=3436480" t "7ab83dfae7c421dfbc58bdbd6ddcbcb86e128896")
+ ("http://www.bz-berlin.de/?p=3436571" t "4fabca5730afb3350e6cebbaf499e78f0ef69b0c")
+ ("http://www.bz-berlin.de/?p=3436553" t "8a74620480f1a9506dd44e09826ef6a05bc76249")
+ ("http://www.bz-berlin.de/?p=3436556" t "d8188a7215d9e29acd750798c1b05b565d63bf17")
+ ("http://www.bz-berlin.de/?p=3436545" t "dc045c02691f4451815f1c9983a888fd9152d0e5")
+ ("http://www.bz-berlin.de/?p=3436319" t "d32e7af6f309bf75e43c37880efe4f59c48add59")
+ ("http://www.bz-berlin.de/?p=3436530" t "7ac0616b94c9c0d34846d93c0a25886017738a96")
+ ("http://www.bz-berlin.de/?p=3436375" t "00d40fad91197b92a4ac67c9b66d5de16fb33e9c")
+ ("http://www.bz-berlin.de/?p=3436513" t "acc85122755b04c075f5cbe597ac1a72b7162696")
+ ("http://www.bz-berlin.de/?p=3436446" t "4351550b201ebebccc07edf49b1acc098aa56483")
+ ("http://www.bz-berlin.de/?p=3436293" t "e10a3332c8ca428dd77e4929afa2c4410ffc8fa5"))
+  :END:
+** Frankreich-Wahl: Macron liegt knapp vor Le Pen
+   [2017-04-23 Sun 17:50]
+
+*** Frankreich-Wahl: Macron liegt knapp vor Le Pen | France election : Macron go ahead of Le Pen | フランス選挙：Marcon、Le Penよりやや上回る
+    [2017-04-23 Sun 17:50]
+
+    Emmanuel Macron hat einen dünnen Vorsprung von zwei Prozent. 
+    In die Stichwahl muss er laut aktuellen Ergebnissen mit Marine Le Pen.
+                   
+    quoted: [[http://www.bz-berlin.de/welt/frankreich-wahl-macron-soll-vorn-liegen]]
+*** translation
+    Emmanuel Macron gets a slight lead by 2%.
+    In the final-election, he must get the great significant result with Marine ( Le Pen )
+*** translation
+    Emmanuel Macron が２％、選挙戦をリードした。
+    最終投票で、彼はMarine（Le Pen）に対して大差をつける必要がある。
+    
+*** words
+    - knapp vor A liegen
+      - lead A ahead
+      - liegt
+        - liegen
+    - dünnen
+      - dünn
+	- thin
+    - Vorsprung
+      - projection
+      - lead
+    - Stichwahl
+      - final ballot
+    - aktuellen
+      - aktuell
+	- current
+
+** Dagmar Manzel brilliert in Becketts Groteske „Glückliche Tage“
+   [2017-04-23 Sun 18:09]
+                           <![CDATA[Die Schauspielerin glänzt als Sprach- und Spielartistin auf der Bühne, gibt dem sperrigen Beckett-Text Rhythmus, zum Wohlwollen von Regisseur Schwochow.]]>
+                       
+   [[http://www.bz-berlin.de/kultur/dagmar-manzel-brilliert-in-becketts-groteske-glueckliche-tage]]
+
+
+** Prügel-Eklat beim Punktsieg von Arthur Abraham
+   [2017-04-23 Sun 18:25]
+                           <![CDATA[Beim einstimmigen Punktsieg gegen Robin Krasniqi kam es zu Schlägereien unter den Zuschauern. Für Abraham reichten an diesemAbend 70 Prozent.]]>
+                       
+   [[http://www.bz-berlin.de/berlin-sport/mehr-berlin-sport/pruegel-eklat-beim-punktsieg-von-arthur-abraham]]
+
+
+** Was uns die neuen Bilder von „Game of Thrones“ verraten
+   [2017-04-23 Sun 18:30]
+                           <![CDATA[HBO hat nun erste Bilder der siebten Staffel veröffentlicht. Bei genauer Betrachtung lassen sich doch einige Details feststellen. Und es werden neue Fragen aufgeworfen.]]>
+                       
+   [[http://www.bz-berlin.de/kultur/fernsehen/was-uns-die-neuen-bilder-von-game-of-thrones-verraten]]
+
+
+** Crash auf Buckower Damm: Ein Fahrer verletzt, der andere floh
+   [2017-04-23 Sun 19:05]
+                           <![CDATA[Auf dem Buckower Damm kollidierten zwei Fahrzeuge miteinander und rammten anschließend noch einen parkenden Porsche.]]>
+                       
+   [[http://www.bz-berlin.de/berlin/neukoelln/crash-auf-buckower-damm-ein-fahrer-verletzt-der-andere-soll-geflohen-sein]]
+
+
+** Vedad Ibisevic ist Herthas Alleskönner
+   [2017-04-23 Sun 19:06]
+                           <![CDATA[Herthas Leitwolf trifft nicht nur zum Sieg gegen Wolfsburg. Der Berliner Kapitän schützt auch seine Mitspieler, wenn es einmal eng wird.]]>
+                       
+   [[http://www.bz-berlin.de/berlin-sport/hertha-bsc/vedad-ibisevic-ist-herthas-alleskoenner]]
+
+
+** Warum ließ Union Stuttgart-Torjäger Terodde einst gehen?
+   [2017-04-23 Sun 19:34]
+                           <![CDATA[Simon Terodde kickte drei Jahre lang für Union. Am Montag ist der Stürmer die größte Gefahr für die Eisernen im Top-Spiel beim VfB Stuttgart.]]>
+                       
+   [[http://www.bz-berlin.de/berlin-sport/union-berlin/warum-liess-union-stuttgart-torjaeger-terodde-einst-gehen]]
+
+
+** Friedman: Dass Le Pen so weit kam, muss uns eine Warnung sein
+   [2017-04-23 Sun 20:24]
+                           <![CDATA[Die Rechtspopulistin Marine Le Pen geht in Frankreich gegen Emmanuel Macron in die Stichwahl. Für Friedmann ein weiterer Erfolg für die extremistische Rechte Europas.]]>
+                       
+   [[http://www.bz-berlin.de/welt/friedman-dass-le-pen-so-weit-kam-muss-uns-eine-warnung-sein]]
+
+
+** Frankreich: Macron und Le Pen gehen in die Stichwahl
+   [2017-04-23 Sun 20:47]
+                           <![CDATA[Erste Runde der Präsidentschaftswahl in Frankreich: Der Liberale und europafreundliche Macron siegt vor der Rechtspopulistin Le Pen. Die Stichwahl am 7. Mai entscheidet.]]>
+                       
+   [[http://www.bz-berlin.de/welt/frankreich-macron-und-le-pen-gehen-in-die-stichwahl]]
+
+
+** 3:2! Barcelona gewinnt gegen Real den Clásico
+   [2017-04-23 Sun 21:05]
+                           <![CDATA[Mit dem Sieg verdrängte Barcelona Real Madrid von der Tabellenspitze. Doppelpack von Messi, Sergio Ramos mit Gelb-Rot vom Platz.]]>
+                       
+   [[http://www.bz-berlin.de/sport/fussball/32-barcelona-gewinnt-gegen-real-den-clasico]]
+
+
+** Vor dieser Berlinerin zittern die Kunstfälscher
+   [2017-04-23 Sun 21:06]
+                           <![CDATA[Traude Sauer (74) aus Moabit spürte u. a. verschollen geglaubte Nazi-Skulpturen auf. Zum Unmut einiger Kunsthändler, denen sie so die Geschäftsgrundlage nimmt.]]>
+                       
+   [[http://www.bz-berlin.de/berlin/mitte/vor-dieser-berlinerin-zittern-die-kunstfaelscher]]
+
+
+** Ex-Minister Wolfgang Fürniß ist tot
+   [2017-04-23 Sun 21:12]
+                           <![CDATA[2002 stürz­te Für­niß über einen Mil­lio­nen-Kre­dit von einem ara­bi­schen Scheich. Er kam in Haft.]]>
+                       
+   [[http://www.bz-berlin.de/berlin/umland/ex-minister-fuerniss-tot]]
+
+
+** Zu betrunken zum Stehen – Aber Autofahren…
+   [2017-04-23 Sun 21:53]
+                           <![CDATA[Aufgrund seiner erheblichen Alkoholisierung bekam er vermutlich die sanfte Kurve nicht. Und raste mit dem Wagen direkt in den Wald hinein. ]]>
+                       
+   [[http://www.bz-berlin.de/berlin/treptow-koepenick/zu-betrunken-zum-stehen-aber-autofahren]]
+
+
+** Berlin-News: Was gestern geschah und heute wichtig wird
+   [2017-04-24 Mon 00:42]
+                           <![CDATA[In der Nacht endete eine Suff-Fahrt in einem Wald in Karlshorst. Der Fahrer konnte kaum stehen, so alkoholisiert war er. Alle Infos aus der Nacht und was heute los ist, finden Sie hier.]]>
+                       
+   [[http://www.bz-berlin.de/berlin/berlin-news-was-gestern-geschah-und-heute-wichtig-wird-2017-04-24]]
+
+
+** Mitsingen in der Ufa-Fabrik oder zuhören im Admiralspalast
+   [2017-04-24 Mon 05:02]
+                           <![CDATA[In der Ufa-Fabrik gibt es mal wieder "Schalala"-Mitgesinge – und im Admiralspalast gibt es ein großartiges neues Musical zu sehen.]]>
+                       
+   [[http://www.bz-berlin.de/kultur/mehr-kultur/mitsingen-in-der-ufa-fabrik-oder-zuhoeren-im-admiralspalast]]
+
+
+** Nationalelf-Comeback für Max Kruse? Das sagt Jogi Löw
+   [2017-04-24 Mon 05:31]
+                           <![CDATA[ Bundestrainer Joachim Löw hat Bremens Torjäger Max Kruse nach dessen Vier-Tore-Gala Hoffnungen auf eine Rückkehr in die deutsche Fußball-Nationalmannschaft beim Confed Cup gemacht.]]>
+                       
+   [[http://www.bz-berlin.de/sport/fussball/nationalelf-comeback-fuer-max-kruse-das-sagt-jogi-loew]]
+
+
+** Räuber mit Machete überfällt Wettbüro
+   [2017-04-24 Mon 05:41]
+                           <![CDATA[Ein mit einer Machete bewaffneter Räuber hat ein Wettbüro in Berlin-Reinickendorf überfallen.]]>
+                       
+   [[http://www.bz-berlin.de/berlin/reinickendorf/raeuber-mit-machete-ueberfaellt-wettbuero]]
+
+
+** Anti-Sex-Zaun für Gymnasium, um Freier und Fixer fernzuhalten
+   [2017-04-24 Mon 05:51]
+                           <![CDATA[Schulstadtrat Carsten Spallek will einen 1,80 m hohen Zaun um das Französische Gymnasium bauen lassen, damit Freier und Fixer das Gelände in Tiergarten nicht mehr betreten können.]]>
+                       
+   [[http://www.bz-berlin.de/berlin/mitte/anti-sex-zaun-fuer-gymnasium-um-freier-und-fixer-fernzuhalten]]
+
+
+** In „Honigfrauen“ hat Sonja Gerhardt ihre nächste große Rolle
+   [2017-04-24 Mon 06:19]
+                           <![CDATA[In dem DDR-Drama spielt die gebürtige Westberlinerin ein Ostmädchen, das mit seiner Freundin einen Urlaub am Balaton verbringt. Während der Dreharbeiten lernte Gerhardt die Jugendzeit ihrer Eltern ein Stückchen besser kennen. ]]>
+                       
+   [[http://www.bz-berlin.de/kultur/fernsehen/in-honigfrauen-hat-sonja-gerhardt-ihre-naechste-grosse-rolle]]
+
+
+** Lesben und Schwule sagen in Berlin immer häufiger Ja
+   [2017-04-24 Mon 06:19]
+                           <![CDATA[Die Zahl der eingetragenen Lebenspartnerschaften nimmt zu. Die meisten gleichgeschlechtlichen Ehen sind in Schöneberg registriert.]]>
+                       
+   [[http://www.bz-berlin.de/berlin/tempelhof-schoeneberg/lesben-und-schwule-sagen-i-berlin-immer-haeufiger-ja]]
+
+

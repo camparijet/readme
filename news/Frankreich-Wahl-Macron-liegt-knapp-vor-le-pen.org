@@ -1,0 +1,37 @@
+# Created 2017-04-24 Mon 09:32
+#+TITLE: Frankreich-Wahl: Macron liegt knapp vor Le Pen
+#+AUTHOR: takeoka
+[2017-04-23 Sun 17:50]
+
+* Frankreich-Wahl: Macron liegt knapp vor Le Pen | France election : Macron go ahead of Le Pen | フランス選挙：Marcon、Le Penよりやや上回る
+[2017-04-23 Sun 17:50]
+
+Emmanuel Macron hat einen dünnen Vorsprung von zwei Prozent. 
+In die Stichwahl muss er laut aktuellen Ergebnissen mit Marine Le Pen.
+
+quoted: [[http://www.bz-berlin.de/welt/frankreich-wahl-macron-soll-vorn-liegen]]
+* translation
+Emmanuel Macron gets a slight lead by 2%.
+In the final-election, he must get the great significant result with Marine ( Le Pen )
+* translation
+Emmanuel Macron が２％、選挙戦をリードした。
+最終投票で、彼はMarine（Le Pen）に対して大差をつける必要がある。
+
+* words
+- knapp vor A liegen
+  - lead A ahead
+  - liegt
+    - liegen
+- dünnen
+  - dünn
+    - thin
+- Vorsprung
+  - projection
+  - lead
+- Stichwahl
+  - final ballot
+- aktuellen
+  - aktuell
+    - current
+
+# Emacs 25.0.92.2 (Org mode N/A)
