@@ -1,70 +1,27 @@
-
-
 * B.Z. Berlin
 
   :FEEDSTATUS:
-(("http://www.bz-berlin.de/?p=3437364" t "9a23c9221b52004e94de72bff5da896fd8a8c023")
- ("http://www.bz-berlin.de/?p=3437183" t "62eb0c86573a114347192ff8093ebbadda1e18a1")
- ("http://www.bz-berlin.de/?p=3437267" t "36a6d1f4bb00829610651df0dd9fd57c44c779b6")
- ("http://www.bz-berlin.de/?p=3437347" t "99f3306d10737a31b3fad971ca4595efae0878d8")
- ("http://www.bz-berlin.de/?p=3437321" t "7487782df04add3d619903d07dd9d7ab3a434907")
- ("http://www.bz-berlin.de/?p=3437311" t "8d55e2c766de6dbb94c8535cc7a4af299625d048")
- ("http://www.bz-berlin.de/?p=3437314" t "dbbcf7359c9c2483186ff43e4f3754c2d7b21c52")
- ("http://www.bz-berlin.de/?p=3437041" t "3cb412bb845e861f232c74e9611f34b1eafa3e25")
- ("http://www.bz-berlin.de/?p=3437003" t "ac746f3b5936b662e0365ff63dbcc333ee96162c")
- ("http://www.bz-berlin.de/?p=3436676" t "8720df167a9e33c7d747bd3022954f32b1760b92")
- ("http://www.bz-berlin.de/?p=3437297" t "86256ca352e14658bb94d24e906cb923c3136d06")
- ("http://www.bz-berlin.de/?p=3437275" t "c6d440d34ad77121571591a8ec6e6913a93229e4")
- ("http://www.bz-berlin.de/?p=3437289" t "a298dc37e93759363cff272c9ff454913bc8e794")
- ("http://www.bz-berlin.de/?p=3437273" t "4510822bdf99e54638d7b9523a3a097d07db6c7a")
- ("http://www.bz-berlin.de/?p=3437233" t "43a2a26c56c4dde91dc572760aa0cfb2076a8dd3")
- ("http://www.bz-berlin.de/?p=3437207" t "871c389dcaf063641034351eb5d8635f9efa17e2")
- ("http://www.bz-berlin.de/?p=3437197" t "cf7ba2b9f21a023137bbd9478f47e6953f4295c4")
- ("http://www.bz-berlin.de/?p=3436989" t "7b75dd6dbd36df1c22986c065975d767eb647c48")
- ("http://www.bz-berlin.de/?p=3436993" t "1bfa23841c60794d25090f0d21e18944176e279f")
- ("http://www.bz-berlin.de/?p=3437081" t "b2d410ac94ae371c70e79bde8dbd4534480117c0"))
+(("http://www.bz-berlin.de/?p=3437816" t "5aa66980d752c15ff242ac33d38b0af994954f25")
+ ("http://www.bz-berlin.de/?p=3437861" t "96ae265959ad6a5bc6bee00b853394b691adbeb5")
+ ("http://www.bz-berlin.de/?p=3437836" t "140be803fd5b6cafd28edd4fec62f5a0975f17b8")
+ ("http://www.bz-berlin.de/?p=3437663" t "52c825da4ee645234645f1c94d48fbdc7ab974a5")
+ ("http://www.bz-berlin.de/?p=3437725" t "87163a9f237ec671b4fccb67a40c122d28e02256")
+ ("http://www.bz-berlin.de/?p=3437732" t "b8b879d132fdccf96b0f187d95d23b2e31516f30")
+ ("http://www.bz-berlin.de/?p=3437758" t "9ad1bf08e5034a4655e5fc3abd4e70761309c387")
+ ("http://www.bz-berlin.de/?p=3437749" t "ec06c2678cd242be196d29e3577c15833b74a62d")
+ ("http://www.bz-berlin.de/?p=3436100" t "d59526426567fc0a4e74d997556f3882983c277f")
+ ("http://www.bz-berlin.de/?p=3437735" t "3ab5cf5f3a38304f6d98afef90c7856332f08c4c")
+ ("http://www.bz-berlin.de/?p=3437726" t "7fed0d44a84a37a53541a7a0f91dd8a0fa92fa64")
+ ("http://www.bz-berlin.de/?p=3437709" t "6ca216eeb0b3a2741196a3455398772de8570f41")
+ ("http://www.bz-berlin.de/?p=3437690" t "f817749c4830a2b3598a0d29f3ccfc7e9e21c90e")
+ ("http://www.bz-berlin.de/?p=3437652" t "a65dee968d12b227e4fed649b890470564eb1d38")
+ ("http://www.bz-berlin.de/?p=3437675" t "a0943df9199d3adf033906f7ebf803d3b9d8afe0")
+ ("http://www.bz-berlin.de/?p=3437496" t "6fec2f07e5ed88c56cb9a1a5fe67f475ad3a3ed6")
+ ("http://www.bz-berlin.de/?p=3437640" t "d227aac93531b6fef6d636e46345baa6c57548ed")
+ ("http://www.bz-berlin.de/?p=3437585" t "c23ebe6c57de9f53aabe6936916856d174deaf5c")
+ ("http://www.bz-berlin.de/?p=3437579" t "d1b307e7216645c847fa18438109b06dcbcd92d0")
+ ("http://www.bz-berlin.de/?p=3437590" t "059e55bc41af1cdf37bd8adc4e8fab05a0d65e99"))
   :END:
-** Frankreich-Wahl: Macron liegt knapp vor Le Pen
-   [2017-04-23 Sun 17:50]
-
-*** Frankreich-Wahl: Macron liegt knapp vor Le Pen | France election : Macron go ahead of Le Pen | フランス選挙：Marcon、Le Penよりやや上回る
-    [2017-04-23 Sun 17:50]
-
-    Emmanuel Macron hat einen dünnen Vorsprung von zwei Prozent. 
-    In die Stichwahl muss er laut aktuellen Ergebnissen mit Marine Le Pen.
-                   
-    quoted: [[http://www.bz-berlin.de/welt/frankreich-wahl-macron-soll-vorn-liegen]]
-*** translation
-    Emmanuel Macron gets a slight lead by 2%.
-    In the final-election, he must get the great significant result with Marine ( Le Pen )
-*** translation
-    Emmanuel Macron が２％、選挙戦をリードした。
-    最終投票で、彼はMarine（Le Pen）に対して大差をつける必要がある。
-    
-*** words
-    - knapp vor A liegen
-      - lead A ahead
-      - liegt
-        - liegen
-    - dünnen
-      - dünn
-	- thin
-    - Vorsprung
-      - projection
-      - lead
-    - Stichwahl
-      - final ballot
-    - aktuellen
-      - aktuell
-	- current
-
-** Dagmar Manzel brilliert in Becketts Groteske „Glückliche Tage“
-   [2017-04-23 Sun 18:09]
-                           <![CDATA[Die Schauspielerin glänzt als Sprach- und Spielartistin auf der Bühne, gibt dem sperrigen Beckett-Text Rhythmus, zum Wohlwollen von Regisseur Schwochow.]]>
-                       
-   [[http://www.bz-berlin.de/kultur/dagmar-manzel-brilliert-in-becketts-groteske-glueckliche-tage]]
-
-
 ** Prügel-Eklat beim Punktsieg von Arthur Abraham
    [2017-04-23 Sun 18:25]
                            <![CDATA[Beim einstimmigen Punktsieg gegen Robin Krasniqi kam es zu Schlägereien unter den Zuschauern. Für Abraham reichten an diesemAbend 70 Prozent.]]>
@@ -469,6 +426,181 @@
                            <![CDATA[Svetoslav S. soll im Oktober 2016 eine Frau im U-Bahnhof Hermannstraße die Treppe heruntergetreten haben. Der Staatsanwalt hat nun Anklage erhoben - wegen gefährlicher Körperverletzung.]]>
                       
    [[http://www.bz-berlin.de/berlin/neukoelln/die-anklage-gegen-den-u-bahn-treter-steht]]
+
+** Die BVG fährt Schwarz und das ist gut so
+   [2017-04-25 Tue 13:29]
+                           <![CDATA[Erst am Mittwoch wird es offiziell: Auch 2016 machte die BVG Gewinn, fuhr schwarze Zahlen ein. Der Konzern erzielte einen Überschuss von 21 Millionen Euro. Ein Teil des Geldes ist aber schon geblockt.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/die-bvg-faehrt-schwarz-und-das-ist-gut-so]]
+
+
+** U-Bahn-Treter masturbierte vor zwei Frauen
+   CLOCK: [2017-04-25 Tue 23:45]
+   [2017-04-25 Tue 13:35]
+
+*** U-Bahn-Treter masturbierte vor zwei Frauen | U-Bahn-Crimer masturbated before two Ladies
+    [2017-04-25 Tue 13:35]
+
+    訳していてホントかよ案件。B.Zがドイツの東スポと言われているのを思い出した。
+    
+    Svetoslav S. soll im Oktober 2016 eine Frau im U-Bahnhof Hermannstraße die Treppe heruntergetreten haben. Angeklagt wird der Mann nun wegen gefährlicher Körperverletzung und Exhibitionismus. Er soll vor einer Frau masturbiert haben.
+                      
+    [[http://www.bz-berli n.de/berlin/neukoelln/u-bahn-treter-von-der-hermannstrasse-wird-auch-als-exhibitionist-angeklagt]]
+
+*** translation
+    Svetoslav S. is thought to have kicked down a lady in the U-Bahnhof(subway) Hermanstraße station stairways in Oct. 2016. The man is charged now because of dangerous head-injured and Exhibitionism. He is thought to have masturberted a lady before.
+
+*** 翻訳
+    Svetoslav S. は２０１６年10月Hermanstrass駅の階段で女性を蹴り落とした被疑者である。彼は今、現在障害と露出狂という容疑で取調べを受けている。彼は女性の前でマスターベーションをしたそうだ。
+
+*** word
+    - Treter
+      - unfair spielt
+    - masturbierte
+      - masturbate
+    - heruntergetreten
+      - heruntertreten
+	- kick down
+    - Treppe
+      - stair case
+    - Angeklagt
+      - anklagen
+	- charge
+    - Exhibitionismus
+      - 露出狂
+
+** Berlin hat die Groove-Queen Joy Denalane (wieder)!
+   [2017-04-25 Tue 13:44]
+                           <![CDATA[Sechs Jahre stand Soul-Sängerin Joy Denalane nicht mehr auf der Bühne. Jetzt ist sie wieder da - mit neuer Platte.]]>
+                      
+   [[http://www.bz-berlin.de/kultur/musik/berlin-hat-die-groove-queen-joy-denalane-wieder]]
+
+
+** Russland tritt nicht beim ESC in Kiew an
+   [2017-04-25 Tue 13:55]
+                           <![CDATA[Der ESC 2017 findet vom 9. bis 13. Mai in Kiew statt. Russland nominierte Julia Samoylova, zog seine Teilnahme aber zurück. B.Z. erklärt die Gründe.]]>
+                      
+   [[http://www.bz-berlin.de/kultur/musik/russland-tritt-nicht-beim-esc-in-kiew-an]]
+
+
+** Netanjahu macht Drohung wahr und sagt Treffen mit Gabriel ab
+   [2017-04-25 Tue 14:21]
+                           <![CDATA[Diplomatischer Affront in Israel: Ministerpräsident Benjamin Netanjahu hat Außenminister Sigmar Gabriel am Dienstag nicht empfangen – ein für 16 Uhr geplantes Treffen ließ der Premier kurzfristig einfach platzen.]]>
+                      
+   [[http://www.bz-berlin.de/welt/netanjahu-macht-drohung-wahr-und-sagt-treffen-mit-gabriel-ab]]
+
+
+** „Grey’s Anatomy”-Star Jesse Williams lässt sich scheiden
+   [2017-04-25 Tue 14:23]
+                           <![CDATA[Der aus der Fernsehserie „Grey's Anatomy” bekannte US-Schauspieler Jesse Williams lässt sich Medienberichten zufolge von seiner Frau scheiden. ]]>
+                      
+   [[http://www.bz-berlin.de/allgemein/greys-anatomy-star-jesse-williams-laesst-sich-scheiden]]
+
+
+** Faye Dunaway spricht erstmals über Oscar-Panne: „War völlig verdutzt”
+   [2017-04-25 Tue 14:45]
+                           <![CDATA[Die Hollywood-Legende Faye Dunaway (76) hat zwei Monate nach der Oscar-Verleihung erstmals öffentlich über den großen Patzer in den letzten Showminuten gesprochen – damals verkündete sie zunächst den falschen Preisträger.]]>
+                      
+   [[http://www.bz-berlin.de/leute/faye-dunaway-spricht-erstmals-ueber-oscar-panne-war-voellig-verdutzt]]
+
+
+** Eine Berliner Ampel gerät außer Kontrolle und schaltet, wie sie will
+   [2017-04-25 Tue 14:57]
+                           <![CDATA[Geht Ihnen das manchmal auch so? Sie stehen an der roten Ampel und denken: Mensch, das dauert aber heute lange, bis die auf Grün springt! Dann kann es sein, dass Sie sich an einer Kreuzung mit Straßenbahn- oder Busverkehr aufhalten. Die BVG-Fahrzeuge dürfen sich ihre Ampel nämlich selbst auf Grün schalten. Autofahrer, Radler und Fußgänger […]]]>
+                      
+   [[http://www.bz-berlin.de/berlin/kolumne/eine-berliner-ampel-geraet-ausser-kontrolle-und-schaltet-wie-sie-will]]
+
+
+** Eisbären Tonja und Wolodja wieder vereint
+   [2017-04-25 Tue 15:04]
+                           <![CDATA[Nach mehr als zwei Monaten Trennung sind die Eltern des verstorbenen Eisbären Fritz wieder im Tierpark vereint.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/eisbaeren-tonja-und-wolodja-wieder-vereint]]
+
+
+** Berlin schöpft das Abi aus dem Pool
+   [2017-04-25 Tue 15:30]
+                           <![CDATA[Am Montag begannen die Deutschprüfungen für Berlins Abiturienten. Erstmals gibt es deutschlandweite Prüfungsaufgaben für die Schüler.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/berlin-schoepft-das-abi-aus-dem-pool]]
+
+
+** Die Berliner Polizei im Entenküken-Rettungseinsatz
+   [2017-04-25 Tue 16:15]
+                           <![CDATA[Erfolgreicher Rettungseinsatz für die Berliner Polizei: Einige Beamte retteten fünf Entenküken, die von ihrer Mutter getrennt worden waren, aus einem Gulli. Auch die Familienzusammenführung gelang!]]>
+                      
+   [[http://www.bz-berlin.de/berlin/tempelhof-schoeneberg/die-berliner-polizei-im-entenkueken-rettungseinsatz]]
+
+
+** Motorradfahrer in Oberschöneweide schwer verletzt – Zeugen gesucht
+   [2017-04-25 Tue 16:17]
+                           <![CDATA[Ein Motorradfahrer stürzte beim Überholen eines LKW und wurde schwer verletzt.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/treptow-koepenick/motorradfahrer-in-oberschoeneweide-schwer-verletzt-polizei-sucht-nach-zeugen]]
+
+
+** Carsharing-Fahrer lässt Fußgänger schwer verletzt liegen – Unfallfahrer ermittelt
+   [2017-04-25 Tue 16:50]
+                           <![CDATA[Die Polizei suchte einen Unfallfahrer, der in der Nacht von Samstag zu Sonntag einen 23-Jährigen in der Kopernikusstraße erfasst hat und dann davonfuhr. Nun ist ein Verdächtiger ermittelt.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/friedrichshain-kreuzberg/unfallflucht-carsharing-fahrer-laesst-fussgaenger-schwer-verletzt-liegen]]
+
+
+** Angela Merkel und Ivanka Trump gemeinsam für mehr Frauenrechte
+   [2017-04-25 Tue 16:59]
+                           <![CDATA[Beim W20-Gipfel in Berlin machten sich Entscheiderinnen von Angela Merkel bis Ivanka Trump für Frauen stark.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/merkel-und-ivanka-trump-gemeinsam-fuer-mehr-frauenrechte]]
+
+
+** Alba Berlin trennt sich von Cheftrainer Caki
+   [2017-04-25 Tue 17:00]
+                           <![CDATA[Kurz vor den Playoffs hat sich Basketball-Bundesligist ALBA Berlin von seinem Coach Ahmet Caki getrennt. Das teilte der Hauptstadtclub am Dienstag mit.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/alba-berlin-trennt-sich-von-cheftrainer-caki]]
+
+
+** Messerattacke auf Polizisten: Zweieinhalb Jahre Haft für Schüler
+   [2017-04-25 Tue 17:42]
+                           <![CDATA[Nach einer Messerattacke auf einen Polizeibeamten im verganenen Jahr, ist ein 21-järiger Schüler zu zweieinhalb Jahren Haft verurteilt worden.]]>
+                      
+   [[http://www.bz-berlin.de/allgemein/messerattacke-auf-polizisten-zweieinhalb-jahre-haft-fuer-schueler]]
+
+
+** Facebook verweigert Mutter letzte Nachrichten ihrer toten Tochter
+   [2017-04-25 Tue 18:15]
+                           <![CDATA[Seit Dienstag stehen sich die Mutter eines verstorbenen Mädchens und Facebook vor dem Kammergericht Berlin gegenüber. Es geht um die Herausgabe der Zugangsdaten des Mädchens.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/facebook-verweigert-trauernder-mutter-die-letzten-nachrichten-ihrer-tochter]]
+
+
+** DFB-Pokal Liveticker: Gladbach – Frankfurt 1:1
+   [2017-04-25 Tue 18:59]
+                           <![CDATA[Borussia Mönchengladbach empfängt Eintracht Frankfurt im Kampf um den Einzug ins DFB-Pokalfinale. Wer trifft auf Bayern oder den BVB? Alles hier im Liveticker!]]>
+                      
+   [[http://www.bz-berlin.de/sport/liveticker/dfb-pokal-live-gladbach-frankfurt-im-ticker]]
+
+
+** Mutmaßlicher Talibankämpfer in Berlin angeklagt
+   [2017-04-25 Tue 19:24]
+                           <![CDATA[Einem mutmaßlichen Talibankämpfer wird vorgeworfen, zwei Menschen ermordet und sich den radikalen Islamisten angeschlossen zu haben.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/mutmasslicher-talibankaempfer-in-berlin-angeklagt]]
+
+
+** Formel 1: T-Flügel soll wieder abgeschafft werden
+   [2017-04-25 Tue 20:07]
+                           <![CDATA[Der Motorsport-Weltverband will die T-Flügel wieder abschaffen. Auch weitere Änderungen sind geplant.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/mehr-berlin-sport/formel-1-t-fluegel-soll-wieder-abgeschafft-werden]]
+
+** „Jetzt bin ich ein amerikanischer Berliner“
+   [2017-04-25 Tue 20:32]
+                           <![CDATA[Erst mit der Enthüllung eines Porträts in der Gallerie des Abgeordnetenhauses ist die Ehrenbürgerschaft komplett. Nun wurde die Ehre dem Gründungsdirektor des Jüdischen Museums zuteil. ]]>
+                      
+   [[http://www.bz-berlin.de/berlin/jetzt-bin-ich-ein-amerikanischer-berliner]]
+
+
 
 
 
