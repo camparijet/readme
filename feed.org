@@ -3,26 +3,26 @@
 * B.Z. Berlin
 
   :FEEDSTATUS:
-(("http://www.bz-berlin.de/?p=3436486" t "79476242ad48d5691c716653dc30248b1a685cfb")
- ("http://www.bz-berlin.de/?p=3436497" t "72595971b7bbf684f69106d20f1e52a8286ce3bf")
- ("http://www.bz-berlin.de/?p=3436456" t "288bb049e0613ffdf3b23cc977fe6d6f0e59f4c9")
- ("http://www.bz-berlin.de/?p=3436625" t "5406868b69ca24c6be888a4682d658e0dbaa987e")
- ("http://www.bz-berlin.de/?p=3436615" t "d061414d007d6979db0347dadeefc72c25d09d8b")
- ("http://www.bz-berlin.de/?p=3436098" t "cd8bb4e0f1e23f6c61792fea06ae50b9db4a65c7")
- ("http://www.bz-berlin.de/?p=3436599" t "e37540fe3148bd8f5485634226e6917a6d9a1330")
- ("http://www.bz-berlin.de/?p=3436588" t "7bb003fa958eb33ef649f053e40799877d020ecd")
- ("http://www.bz-berlin.de/?p=3436578" t "771903992c37548ef8cedd8365ecaeaf017f2324")
- ("http://www.bz-berlin.de/?p=3436480" t "7ab83dfae7c421dfbc58bdbd6ddcbcb86e128896")
- ("http://www.bz-berlin.de/?p=3436571" t "4fabca5730afb3350e6cebbaf499e78f0ef69b0c")
- ("http://www.bz-berlin.de/?p=3436553" t "8a74620480f1a9506dd44e09826ef6a05bc76249")
- ("http://www.bz-berlin.de/?p=3436556" t "d8188a7215d9e29acd750798c1b05b565d63bf17")
- ("http://www.bz-berlin.de/?p=3436545" t "dc045c02691f4451815f1c9983a888fd9152d0e5")
- ("http://www.bz-berlin.de/?p=3436319" t "d32e7af6f309bf75e43c37880efe4f59c48add59")
- ("http://www.bz-berlin.de/?p=3436530" t "7ac0616b94c9c0d34846d93c0a25886017738a96")
- ("http://www.bz-berlin.de/?p=3436375" t "00d40fad91197b92a4ac67c9b66d5de16fb33e9c")
- ("http://www.bz-berlin.de/?p=3436513" t "acc85122755b04c075f5cbe597ac1a72b7162696")
- ("http://www.bz-berlin.de/?p=3436446" t "4351550b201ebebccc07edf49b1acc098aa56483")
- ("http://www.bz-berlin.de/?p=3436293" t "e10a3332c8ca428dd77e4929afa2c4410ffc8fa5"))
+(("http://www.bz-berlin.de/?p=3437364" t "9a23c9221b52004e94de72bff5da896fd8a8c023")
+ ("http://www.bz-berlin.de/?p=3437183" t "62eb0c86573a114347192ff8093ebbadda1e18a1")
+ ("http://www.bz-berlin.de/?p=3437267" t "36a6d1f4bb00829610651df0dd9fd57c44c779b6")
+ ("http://www.bz-berlin.de/?p=3437347" t "99f3306d10737a31b3fad971ca4595efae0878d8")
+ ("http://www.bz-berlin.de/?p=3437321" t "7487782df04add3d619903d07dd9d7ab3a434907")
+ ("http://www.bz-berlin.de/?p=3437311" t "8d55e2c766de6dbb94c8535cc7a4af299625d048")
+ ("http://www.bz-berlin.de/?p=3437314" t "dbbcf7359c9c2483186ff43e4f3754c2d7b21c52")
+ ("http://www.bz-berlin.de/?p=3437041" t "3cb412bb845e861f232c74e9611f34b1eafa3e25")
+ ("http://www.bz-berlin.de/?p=3437003" t "ac746f3b5936b662e0365ff63dbcc333ee96162c")
+ ("http://www.bz-berlin.de/?p=3436676" t "8720df167a9e33c7d747bd3022954f32b1760b92")
+ ("http://www.bz-berlin.de/?p=3437297" t "86256ca352e14658bb94d24e906cb923c3136d06")
+ ("http://www.bz-berlin.de/?p=3437275" t "c6d440d34ad77121571591a8ec6e6913a93229e4")
+ ("http://www.bz-berlin.de/?p=3437289" t "a298dc37e93759363cff272c9ff454913bc8e794")
+ ("http://www.bz-berlin.de/?p=3437273" t "4510822bdf99e54638d7b9523a3a097d07db6c7a")
+ ("http://www.bz-berlin.de/?p=3437233" t "43a2a26c56c4dde91dc572760aa0cfb2076a8dd3")
+ ("http://www.bz-berlin.de/?p=3437207" t "871c389dcaf063641034351eb5d8635f9efa17e2")
+ ("http://www.bz-berlin.de/?p=3437197" t "cf7ba2b9f21a023137bbd9478f47e6953f4295c4")
+ ("http://www.bz-berlin.de/?p=3436989" t "7b75dd6dbd36df1c22986c065975d767eb647c48")
+ ("http://www.bz-berlin.de/?p=3436993" t "1bfa23841c60794d25090f0d21e18944176e279f")
+ ("http://www.bz-berlin.de/?p=3437081" t "b2d410ac94ae371c70e79bde8dbd4534480117c0"))
   :END:
 ** Frankreich-Wahl: Macron liegt knapp vor Le Pen
    [2017-04-23 Sun 17:50]
@@ -189,5 +189,287 @@
                            <![CDATA[Die Zahl der eingetragenen Lebenspartnerschaften nimmt zu. Die meisten gleichgeschlechtlichen Ehen sind in Schöneberg registriert.]]>
                        
    [[http://www.bz-berlin.de/berlin/tempelhof-schoeneberg/lesben-und-schwule-sagen-i-berlin-immer-haeufiger-ja]]
+
+** Nach Schlägerei am Bahnhof Wuhletal sucht die Bundespolizei Zeugen
+   [2017-04-24 Mon 12:36]
+                           <![CDATA[Vier junge Männer wurden in Marzahn-Hellersdorf angegriffen, nachdem sie ein Trio aufforderten, einen Rettungswagen für eine hilflose Frau zu rufen.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/marzahn-hellersdorf/nach-schlaegerei-am-bahnhof-wuhletal-sucht-die-bundespolizei-zeugen]]
+
+
+** Ladendieb entpuppt sich als Tatverdächtiger in zwei Mordfällen
+   [2017-04-24 Mon 12:38]
+                           <![CDATA[Anfang Februar wurde ein Mann bei einem Ladendiebstahl in Neukölln aufgegriffen. Nun ergaben Ermittlungen: Er könnte in zwei Fällen Männer umgebracht haben!]]>
+                      
+   [[http://www.bz-berlin.de/berlin/neukoelln/ladendieb-entpuppt-sich-als-tatverdaechtiger-in-zwei-mordfaellen]]
+
+
+** Sido spielt Hauptrolle in Roma-Tragikkomödie
+   [2017-04-24 Mon 12:50]
+                           <![CDATA[Der Berliner Rapper Sido (36, „Mein Block”) spielt die Hauptrolle in der TV-Tragikkomödie „Eine Braut kommt selten allein”. ]]>
+                      
+   [[http://www.bz-berlin.de/kultur/fernsehen/sido-spielt-hauptrolle-in-roma-tragikkomoedie]]
+
+
+** Hertha-Coach Dardai: „Ich sehe im Training nicht die Dynamik“
+   [2017-04-24 Mon 13:11]
+                           <![CDATA[Zwei Bundesliga-Kurzeinsätze mit insgesamt 39 Minuten stehen in der Bilanz von Ondrej Duda. Dabei galt der Slowake als Herthas Top-Transfer aus dem letzten Sommer.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/hertha-bsc/hertha-coach-dardai-ich-sehe-im-training-nicht-die-dynamik]]
+
+
+** Wenn Union in Führung geht, haben sie noch nie verloren
+   [2017-04-24 Mon 13:26]
+                           <![CDATA[Wie groß sind die Chancen, dass Union am Montagabend in Stuttgart punktet? Zumindest sind die Eisernen nach dem Sieg gegen Kaiserslautern zurück im Aufstiegsrennen.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/union-berlin/wenn-union-in-fuehrung-geht-haben-sie-noch-nie-verloren]]
+
+
+** Kriminalstatistik: Zahl politisch motivierter Straftaten erneut gestiegen
+   [2017-04-24 Mon 13:34]
+                           <![CDATA[Die Zahl politisch motivierter Straftaten in Deutschland ist erneut gestiegen. 41.549 Delikte bedeuten einen Höchststand.]]>
+                      
+   [[http://www.bz-berlin.de/deutschland/kriminalstatistik-zahl-politisch-motivierter-straftaten-erneut-gestiegen]]
+
+
+** Wenn er will, aber nicht immer kann
+   [2017-04-24 Mon 14:01]
+                           <![CDATA[Auch beim Mann kann durchaus Flaute im Bett sein. Kein Grund zur Sorge]]>
+                      
+   [[http://www.bz-berlin.de/erotik/wenn-er-will-aber-nicht-immer-kann]]
+
+
+** London-Marathon: Matthew Rees hilft taumelndem Läufer ins Ziel
+   [2017-04-24 Mon 14:12]
+                           <![CDATA[Das muss dieser Sportsgeist sein, den man im Profi-Sport so oft vermisst. Ein Teilnehmer des London-Marathons half einem Taumelnden Läufer ins Ziel.]]>
+                      
+   [[http://www.bz-berlin.de/panorama/london-marathon-matthew-rees-hilft-taumelndem-laeufer-ins-ziel]]
+
+
+** Wütender Raser tritt Blitzer um und rast auf Polizisten zu
+   [2017-04-24 Mon 14:37]
+                           <![CDATA[Ein verärgerter Autofahrer hat bei Neuzelle erst einen Blitzer umgetreten und dann beinahe einen Polizisten umgefahren. Gegen ihn wird strafrechtlich ermittelt.]]>
+                      
+   [[http://www.bz-berlin.de/tatort/wuetender-raser-tritt-blitzer-um-und-rast-auf-polizisten-zu]]
+
+
+** Bei der Suche nach Verbrechern sind Berlins Polizisten die Hände gebunden
+   [2017-04-24 Mon 15:29]
+                           <![CDATA[Wenn ein Polizist in Berlin ein Auto an die Seite winkt, darf er streng genommen nur die Verkehrstüchtigkeit des Fahrzeugs und die Papiere des Halters überprüfen. Mehr nicht. Er darf weder das Handschuhfach öffnen noch den Kofferraum durchsuchen. In Bayern ist das anders. Dort gibt es das Instrument der sogenannten Schleierfahndung. Dort dürfen Polizisten Autos […]]]>
+                      
+   [[http://www.bz-berlin.de/berlin/kolumne/bei-der-suche-nach-verbrechern-sind-berlins-polizisten-die-haende-gebunden]]
+
+
+** Fußgänger von LKW erfasst und schwer verletzt
+   [2017-04-24 Mon 15:39]
+                           <![CDATA[Am Montag Vormittag erfasste ein LKW beim Abbiegen einen Fußgänger. Der Mann wurde schwer verletzt in ein Krankenhaus gebracht.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/steglitz-zehlendorf/fussgaenger-von-lkw-erfasst-und-schwer-verletzt]]
+
+
+** Zlatan Ibrahimovic: „Ich werde sogar stärker zurückkommen“
+   [2017-04-24 Mon 15:45]
+                           <![CDATA["Ich werde dem Fußball eine Weile fehlen", schreibt Zlatan Ibrahimovic nach seiner schweren Verletzung auf Instagram. "Eine Weile", denn ans Aufhören denkt er noch lange nicht.]]>
+                      
+   [[http://www.bz-berlin.de/sport/fussball/zlatan-ibrahimovic-ich-werde-sogar-staerker-zurueckkommen]]
+
+
+** Liebe AfD-Politiker: Hier tagt die BVV in Kreuzberg
+   [2017-04-24 Mon 16:07]
+                           <![CDATA[Drei AfD-Politiker wurden in die Bezirksverordnetenversammlung Kreuzberg-Friedrichshain gewählt, doch bei der Arbeit in den Ausschüssen fehlen sie meistens.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/friedrichshain-kreuzberg/liebe-afd-politiker-hier-tagt-die-bvv-in-kreuzberg]]
+
+
+** VfB Stuttgart – Union Berlin im Liveticker 2:0
+   [2017-04-24 Mon 16:09]
+                           <![CDATA[Union Berlin kann mit einem Sieg beim VfB Stuttgart auf Tabellenplatz eins springen. Drei Punkte wären ein wichtiger Schritt im Aufstiegsrennen. Für Köpenicker und Schwaben dabei: der B.Z.-Liveticker!]]>
+                      
+   [[http://www.bz-berlin.de/sport/liveticker/vfb-stuttgart-union-berlin-im-liveticker]]
+
+
+** Flughafen Schönefeld: Terminal A wegen Koffer kurzzeitig gesperrt
+   [2017-04-24 Mon 16:51]
+                           <![CDATA[Wegen eines herrenlosen Koffers am Terminal A am es am Montagabend zu Behinderungen am Flughafen Schönefeld. Auch der Busverkehr war betroffen.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/umland/flughafen-schoenefeld-terminal-a-wegen-koffer-kurzzeitig-gesperrt]]
+
+
+** Gabriel gedenkt Holocaus-Opfern in Yad Vashem
+   [2017-04-24 Mon 16:55]
+                           <![CDATA[Außenminister Gabriel besucht am Holocaust-Gedenktag Jerusalem. In Auschwitz erinnerten Überlebende an die Verbrechen der Nazis.]]>
+                      
+   [[http://www.bz-berlin.de/welt/gabriel-gedenkt-holocaus-opfern-in-yad-vashem]]
+
+
+** Der Plan steht: Die Berliner Staatsoper eröffnet im Herbst
+   [2017-04-24 Mon 17:41]
+                           <![CDATA[Es gibt eine große Premierenfeier und ein gefeierter Dirigent wird das Orchester leiten – trotzdem soll die Staatsoper nach den Feierlichkeiten zunächst wieder schließen.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/mitte/der-plan-steht-die-berliner-staatsoper-eroeffnet-im-herbst]]
+
+
+** Wir sind obdachlos, weil im Frauenhaus kein Platz ist
+   [2017-04-24 Mon 17:43]
+                           <![CDATA[Ann (30) aus Kenia erzählt der B.Z. ihre traurige Geschichte: Sie floh vor einer schwierigen Beziehung und sitzt nun auf der Straße.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/friedrichshain-kreuzberg/wir-sind-obdachlos-weil-im-frauenhaus-kein-platz-ist]]
+
+
+** Radfahrer wird von Tram erfasst und schwer verletzt
+   [2017-04-24 Mon 18:25]
+                           <![CDATA[Ein Radfahrer ist in Mitte mit einer Tram zusammengestoßen und wurde schwer verletzt. Der genaue Unfallhergang ist noch nicht geklärt.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/mitte/radfahrer-wird-von-tram-erfasst-und-schwer-verletzt]]
+
+
+** Muss Facebook Nutzerdaten Verstorbener preisgeben?
+   [2017-04-24 Mon 18:40]
+                           <![CDATA[Eine Mutter klagt gegen Facebook um die Herausgabe der Nutzerdaten ihrer verstorbenen Tochter. Sie erhofft sich Informationen über die Todesumstände.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/berliner-kammergericht-muss-facebook-nutzerdaten-verstorbener-preisgeben]]
+
+** Aufgepasst Hertha! Auf Platz sechs lauert Gefahr
+   [2017-04-24 Mon 19:35]
+                           <![CDATA[Frankfurt oder Gladbach zieht heute ins Pokalfinale ein. Holt einer der Klubs den Pott, drohen Folgen für Herthas Traum von Europa.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/hertha-bsc/aufgepasst-hertha-auf-platz-sechs-lauert-gefahr]]
+
+
+** Hals-OP! Darum fehlt Zachrisson wirklich so lange
+   [2017-04-24 Mon 19:36]
+                           <![CDATA[Seit Wochen fehlt der Schwede Mattias Zachrisson den Füchsen. Es ist weiter offen, ob er am Mottwoch gegen Hannover spielen kann.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/fuechse-berlin/hals-op-darum-fehlt-zachrisson-wirklich-so-lange]]
+
+
+** Kriminelle sprengen Tresorraum in Paraguay mit Flak auf
+   [2017-04-24 Mon 20:04]
+                           <![CDATA[Ein vergleichbares Verbrechen habe es in Paraguay noch nicht gegeben, sagte der zuständige Gouverneur. Mit einem Flugabwehrgeschütz sprengten die Krimiellen einen Tresor auf.]]>
+                      
+   [[http://www.bz-berlin.de/welt/kriminelle-erbeuten-mehrere-millionen-dollar-in-paraguay]]
+
+
+** 1:3! Union verliert im Aufstiegsduell beim VfB Stuttgart
+   [2017-04-24 Mon 20:10]
+                           <![CDATA[Das war anders geplant. Union Berlin verliert beim VfB Stuttgart und damit an Boden im Aufstiegsrennen. Die Eisernen haben nun drei Punkte Rückstand auf Platz zwei.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/union-berlin/13-union-verliert-im-aufstiegsduell-beim-vfb-stuttgart]]
+
+
+** Telefonbuch mit Tausenden Promi-Kontakten zu versteigern
+   [2017-04-24 Mon 22:38]
+                           <![CDATA[Von Madonna über Johnny Depp bis hin zu Leonardo DiCaprio: Der 2004 verstorbene Marlon Brando pflegte seine Kontakte gut. Sein persönliches Telefonbuch mit den Nummern tausender Promis wird nun versteigert.]]>
+                      
+   [[http://www.bz-berlin.de/leute/telefonbuch-mit-tausenden-promi-kontakten-zu-versteigern]]
+
+
+** Die Berlin-News aus der Nacht und was heute wichtig wird
+   [2017-04-25 Tue 03:39]
+                           <![CDATA[In der vergangenen Nacht gab es einen Unfall mit zwei Verletzten in der Hermannstraße. Am heutigen Dienstag kommt Ivanka Trump nach Berlin. Was in der Nacht geschah und was heute los ist, erfahren Sie hier.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/berlin-news-was-gestern-geschah-und-heute-wichtig-wird-2017-4-25]]
+
+
+** Elton John muss wegen schwerer Infektion Konzerte absagen
+   [2017-04-25 Tue 03:58]
+                           <![CDATA[Pop-Star Elton John (70) muss wegen einer „gefährlichen und ungewöhnlichen” bakteriellen Infektion geplante Konzerte in Kalifornien und Las Vegas absagen.]]>
+                      
+   [[http://www.bz-berlin.de/kultur/musik/elton-john-muss-wegen-schwerer-infektion-konzerte-absagen]]
+
+
+** AirBnB brachte letztes Jahr 600.000 Touristen nach Berlin
+   [2017-04-25 Tue 04:23]
+                           <![CDATA[Über Airbnb haben nach Angaben des Unternehmens im vergangenen Jahr rund 600.000 Gäste private Unterkünfte in Berlin gebucht. Nach Hochrechnungen des Vermittlungsportals ließen die Besucher etwa 438 Millionen Euro in der Stadt.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/airbnb-brachte-letztes-jahr-600-000-touristen-nach-berlin]]
+
+
+** Die „Blonde Ambition“: So hat Madonna mal angefangen
+   [2017-04-25 Tue 04:54]
+                           <![CDATA[Unter dem Titel „Blonde Ambition” sollen die Anfänge von Madonnas Karriere in den 1980er Jahren verfilmt werden.]]>
+                      
+   [[http://www.bz-berlin.de/kultur/film/die-blonde-ambition-so-hat-madonna-mal-angefangen]]
+
+
+** Musik von Ella Fitzgerald oder von Gayle Tufts?
+   [2017-04-25 Tue 05:10]
+                           <![CDATA[Im Wintergarten wird der 100. Geburtstag von Ella Fitzgerald gefeiert, im Tipi rettet Gayle Tufts die Welt.]]>
+                      
+   [[http://www.bz-berlin.de/kalender/musik-von-ella-fitzgerald-oder-von-gayle-tufts]]
+
+
+** Wie Berliner Forscher marode Brücken retten wollen
+   [2017-04-25 Tue 06:11]
+                           <![CDATA[Wissenschaftler der Bundesanstalt für Materialforschung und -prüfung haben einen Sensor entwickelt, der Korrosion in Beton frühzeitig erkennt. Mit vergleichsweise kleinem Aufwand können so marode Brücken besser erkannt werden.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/ein-berlin-wird-ein-sensor-entwickelt-der-bruecken-zum-sprechen-bringen-soll]]
+
+
+** Zwei Hinrichtungen an einem Tag in Arkansas
+   [2017-04-25 Tue 06:16]
+                           <![CDATA[Zum ersten Mal seit 16 Jahren werden zwei Verurteilte in Arkansas in weniger als 24 Stunden mit der Giftspritze hingerichtet. Der Grund? Der Nachschub für den Giftcocktail wird knapp. ]]>
+                      
+   [[http://www.bz-berlin.de/panorama/zwei-hinrichtungen-an-einem-tag-in-arkansas]]
+
+
+** So läuft der Tag von Ivanka Trump in Berlin ab
+   [2017-04-25 Tue 06:42]
+*** So läuft der Tag von Ivanka Trump in Berlin ab | 
+    [2017-04-25 Tue 06:42]
+                           
+    Die Tochter und Beraterin von US-Präsident Donald Trump, Ivanka, ist in Berlin, wird am Mittag auf dem Frauen-Gipfel „Women20 Summit” mit Merkel und Lagarde zusammentreffen. Wer ist die Frau, die inzwischen als eine der mächtigsten der Welt gilt?
+                      
+    [[http://www.bz-berlin.de/berlin/so-laeuft-der-tag-von-ivanka-trump-in-berlin-ab]]
+*** word
+    - läuft ab
+      - ablaufen
+	- expire
+    - Gipfel
+      - height
+    - mächtig
+      - powerful
+    - gilt
+      - gelten
+	- be valid, be directed at
+
+*** translation
+    The daughter and consultant of U.S President Donald Trump, Ivanka is in Berlin and She will meet with the Merkel and Lagarde at the Woman-day "Woman20 Summit". Who is the lady among them, who affects the most powerfully in the world?
+
+** Gnihihi: Jan Böhmermann muss zensiert werden
+   [2017-04-25 Tue 06:48]
+                           <![CDATA[In Deutschland sind die Regeln eben lockerer: Bei seinem ersten Auftritt im US-Fernsehen hat Jan Böhmermann ein Schimpfwort gleich mehrfach fallen lassen. ]]>
+                      
+   [[http://www.bz-berlin.de/deutschland/gnihihi-jan-boehmermann-muss-zensiert-werden]]
+
+
+** Türkei bittet Deutschland um Wirtschaftshilfe
+   [2017-04-25 Tue 08:09]
+                           <![CDATA[Erdogans Nazi-Vorwürfe? Ein inhaftierter deutscher Journalist? War da was? Trotz vieler aktueller Streitpunkte bittet der türkische Vize-Regierungschef um deutsche Unterstützung: „Dafür brauchen wir Deutschland.”]]>
+                      
+   [[http://www.bz-berlin.de/welt/tuerkei-bittet-deutschland-um-wirtschaftshilfe]]
+
+
+** Berlin-Friedrichshain: Die wichtige Rückkehr der Hirschmänner
+   [2017-04-25 Tue 08:14]
+                           <![CDATA[Mit diesem blauen Schild kehrt die Erinnerung zurück: In einem Jahr wird der Siegfried-Hirschmann-Platz mitten in Berlins größtem Neubau-Kiez liegen. Dort, nahe der Boxhagener Straße, gab's am Montag ein Richtfest für 640 Wohnungen.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/friedrichshain-kreuzberg/berlin-friedrichshain-die-wichtige-rueckkehr-der-hirschmaenner]]
+
+
+** Film-Komponist Howard Shore vertont „Herr der Ringe“ live
+   [2017-04-25 Tue 08:17]
+                           <![CDATA[Howard Shore komponierte die Filmmusik für die "Herr der Ringe"-Trilogie. Jetzt wird der Film wieder gezeigt, begleitet von einem Orchester. Die B.Z. traf den Kanadier zum Interview.]]>
+                      
+   [[http://www.bz-berlin.de/kultur/film-komponist-howard-shore-vertont-herr-der-ringe-live]]
+
+
+** Die Anklage gegen den U-Bahn-Treter steht!
+   [2017-04-25 Tue 08:25]
+                           <![CDATA[Svetoslav S. soll im Oktober 2016 eine Frau im U-Bahnhof Hermannstraße die Treppe heruntergetreten haben. Der Staatsanwalt hat nun Anklage erhoben - wegen gefährlicher Körperverletzung.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/neukoelln/die-anklage-gegen-den-u-bahn-treter-steht]]
+
+
 
 
