@@ -1,0 +1,30 @@
+#+TITLE: Message von Fonic
+
+
+* Message von Fonic                                                    :germany:word:
+
+
+
+Lieber Kunde, Sie surfen bis Ende des Abrechnungsintervalls mit reduzierter Geschwindigkeit, da die Volumengrenze erreicht ist. Sie können Ihre Ausgangsgeschwindigkeit wiederherstellen unter [[http://datapass.de]] 
+
+* translation
+Dear Customers, You now surf with the limited speed by the end of your payment term, because the usage of the volume reached to the upper limit.  You can restore your mobile data speed at the [[http://datapass.de]]
+
+* word
+- Abrechnung
+  - cashing up
+  - reckon
+- reduzieren
+  - reduced
+- Geschwindigkeit
+  - die, speed
+- Volumengrenze
+  - Volume border
+  - grenzen
+    - border etw.
+- erreicht
+  - reach
+- Ausgangsgeschwindgkeit
+  - time off
+- wiederherstellen
+  - restore
