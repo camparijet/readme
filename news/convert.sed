@@ -1,0 +1,2 @@
+-e "s@Title: @* @g"
+-e "Date: "
