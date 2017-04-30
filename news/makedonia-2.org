@@ -1,0 +1,37 @@
+# Created 2017-04-30 Sun 13:17
+#+TITLE: Demonstranten stürmen Mazedoniens Parlament
+#+AUTHOR: takeoka
+[2017-04-27 Thu 21:28]
+* Demonstranten stürmen Mazedoniens Parlament | Demonstration rushes Macedonian Parliament | デモンストレーションがマケドニア国会議事堂に殺到
+[2017-04-27 Thu 21:28]
+Monatelang steckte Mazedonien in der politischen Krise - bis die neue Mehrheit im Parlament die Wahl eines Parlamentspräsidenten erzwang. Aus Wut drangen nun Anhänger des langjährigen Regierungschefs Gruevski ins Gebäude ein und verletzten mehrere Abgeordnete.
+[[http://www.tagesschau.de/ausland/mazedonien-parlament-103.html]]
+
+* words
+- stecken
+  - be
+- erzwang
+  - erzwingen
+- Wut
+  - die Wut
+    - rage
+    - fury
+- Anhänger
+  - supporter
+- drangen ... ein
+  - eindringen
+    - get into
+- Regierungschef
+  - head of government
+- Gebäude
+  - building
+- Abgeordnete
+  - member of parliament
+
+* translation
+Macedonia is in the political crisis monthly - until the new majority in the Parliament of the election forced. Now the long-term head of goverment (Gruevski) supporters got into the buildings and hurt more members of parliament.
+
+* 翻訳
+マケドニアで政治的な危機が続いている。選挙後新たに国会での多数を占めるグループが軍を突入させることで解決を試みた。現Gruevski政権の支持者が建物に突入し多くの国会議員に暴行を加えた。
+
+# Emacs 25.0.92.2 (Org mode N/A)

@@ -1,0 +1,37 @@
+# Created 2017-04-29 Sat 20:51
+#+TITLE: Mazedonien: Schläger im Parlament sorgen weltweit für Entsetzen
+#+AUTHOR: takeoka
+[2017-04-28 Fri 10:39]
+
+* Mazedonien: Schläger im Parlament sorgen weltweit für Entsetzen | Makedonien: Batter in parliament worries worldwid | マケドニア： 世界を震撼させた国会での襲撃者
+[2017-04-28 Fri 10:39]
+
+Nach den brutalen Ausschreitungen in Mazedoniens Parlament mahnt Staatspräsident Ivanov zu Mäßigung. Dabei hat er selbst zur politischen Krise des Landes beigetragen. 
+quoted: [[http://www.spiegel.de/politik/ausland/mazedonien-pruegelei-im-parlament-djordje-ivanov-ruft-zu-besonnenheit-auf-a-1145225.html]]
+
+* translation
+After the brutal act of violence in Makedonnie Parliament, the prime minister Ivanov quitted. At that, he contributed himself to the crisis of the country.
+
+* 翻訳
+マケドニアの国会において暴行事件が起きた後、Ivanov首相は辞職した。彼自身が国家の危機を招いたためである。
+
+* word
+- Mazendonien
+  - Makedonien
+- Schläger
+  - batter
+- Parlament
+  - Parliament
+- Entsetzen
+  - horror
+- die Ausschreitung
+  - act of violece
+- Mäßigung
+  - moderation
+- beigetragen
+  - beitragen
+    - contribute
+- selbst
+  - himself
+
+# Emacs 25.0.92.2 (Org mode N/A)

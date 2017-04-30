@@ -1,26 +1,35 @@
+* how about Panono? vBullet
+  http://www.myforum.com/external.php?type=rss
+  http://www.myforum.com/external.php?type=rss
+
+  http://forum.panono.com/forum/deutsches-forum/external.php?type=rss
+
+  http://forum.panono.com/forum/deutsches-forum?filter_sort=replies
+  http://forum.panono.com/forum/deutsches-forum/1805-angebot-verkauf-eines-perks
+
 * B.Z. Berlin
 
   :FEEDSTATUS:
-(("http://www.bz-berlin.de/?p=3437816" t "5aa66980d752c15ff242ac33d38b0af994954f25")
- ("http://www.bz-berlin.de/?p=3437861" t "96ae265959ad6a5bc6bee00b853394b691adbeb5")
- ("http://www.bz-berlin.de/?p=3437836" t "140be803fd5b6cafd28edd4fec62f5a0975f17b8")
- ("http://www.bz-berlin.de/?p=3437663" t "52c825da4ee645234645f1c94d48fbdc7ab974a5")
- ("http://www.bz-berlin.de/?p=3437725" t "87163a9f237ec671b4fccb67a40c122d28e02256")
- ("http://www.bz-berlin.de/?p=3437732" t "b8b879d132fdccf96b0f187d95d23b2e31516f30")
- ("http://www.bz-berlin.de/?p=3437758" t "9ad1bf08e5034a4655e5fc3abd4e70761309c387")
- ("http://www.bz-berlin.de/?p=3437749" t "ec06c2678cd242be196d29e3577c15833b74a62d")
- ("http://www.bz-berlin.de/?p=3436100" t "d59526426567fc0a4e74d997556f3882983c277f")
- ("http://www.bz-berlin.de/?p=3437735" t "3ab5cf5f3a38304f6d98afef90c7856332f08c4c")
- ("http://www.bz-berlin.de/?p=3437726" t "7fed0d44a84a37a53541a7a0f91dd8a0fa92fa64")
- ("http://www.bz-berlin.de/?p=3437709" t "6ca216eeb0b3a2741196a3455398772de8570f41")
- ("http://www.bz-berlin.de/?p=3437690" t "f817749c4830a2b3598a0d29f3ccfc7e9e21c90e")
- ("http://www.bz-berlin.de/?p=3437652" t "a65dee968d12b227e4fed649b890470564eb1d38")
- ("http://www.bz-berlin.de/?p=3437675" t "a0943df9199d3adf033906f7ebf803d3b9d8afe0")
- ("http://www.bz-berlin.de/?p=3437496" t "6fec2f07e5ed88c56cb9a1a5fe67f475ad3a3ed6")
- ("http://www.bz-berlin.de/?p=3437640" t "d227aac93531b6fef6d636e46345baa6c57548ed")
- ("http://www.bz-berlin.de/?p=3437585" t "c23ebe6c57de9f53aabe6936916856d174deaf5c")
- ("http://www.bz-berlin.de/?p=3437579" t "d1b307e7216645c847fa18438109b06dcbcd92d0")
- ("http://www.bz-berlin.de/?p=3437590" t "059e55bc41af1cdf37bd8adc4e8fab05a0d65e99"))
+(("http://www.bz-berlin.de/?p=3439590" t "178ffbbc92174d7fe3a04d3bee7495ad2cf7328e")
+ ("http://www.bz-berlin.de/?p=3439581" t "a8d1db4b250ca19958a583f54ea5ad7c52eb0904")
+ ("http://www.bz-berlin.de/?p=3439330" t "907f59225e520614eba0077cdf5070c2b8c39427")
+ ("http://www.bz-berlin.de/?p=3439523" t "83d9af97c19d725b7e1b7b84aa9f8ae089f6e27b")
+ ("http://www.bz-berlin.de/?p=3439512" t "c7ad99cb211318c09d52bd997706559c87faa930")
+ ("http://www.bz-berlin.de/?p=3439276" t "872ce99bde4529ab4d0278cb18e821330f9e71ea")
+ ("http://www.bz-berlin.de/?p=3439333" t "236f5649f0419e67b09df64aebd2c7ace04d7201")
+ ("http://www.bz-berlin.de/?p=3439483" t "5f2e72390c3d9888b3cc6c19c6e9966bb253ccc0")
+ ("http://www.bz-berlin.de/?p=3439270" t "95b8914e52a643d44abc5b5845dcc091d0548074")
+ ("http://www.bz-berlin.de/?p=3439225" t "7b3c7fd0bd154fa113a681f325e394c7d185459d")
+ ("http://www.bz-berlin.de/?p=3439331" t "0edca0ee4ddb411d7dc9541835ebb5d0a248cfd3")
+ ("http://www.bz-berlin.de/?p=3439353" t "9535a41226aae521af3d4773e173c05be09d296f")
+ ("http://www.bz-berlin.de/?p=3439424" t "96d97381b6359de1f49ffb9e577153729ce4f7f0")
+ ("http://www.bz-berlin.de/?p=3439447" t "0fffc2b955628e7d1b59512156cccf6994522dbb")
+ ("http://www.bz-berlin.de/?p=3439391" t "dfc918773460818eea6ae19f83b64af67095e719")
+ ("http://www.bz-berlin.de/?p=3439431" t "39cf8a931d601bcdfb59dbdf913d6a77f0128169")
+ ("http://www.bz-berlin.de/?p=3439420" t "969284e547328fe3300ce45cc2aaa18dc5432666")
+ ("http://www.bz-berlin.de/?p=3439395" t "7f43f53cb1ede3dafb9a671d152b857ece9d5972")
+ ("http://www.bz-berlin.de/?p=3439382" t "7c9e34b0f7fbb6fd607be93a3f4353ec9f595629")
+ ("http://www.bz-berlin.de/?p=3439371" t "760535ed450f1d51b6b524225fd94d78e4bbb95e"))
   :END:
 ** Prügel-Eklat beim Punktsieg von Arthur Abraham
    [2017-04-23 Sun 18:25]
@@ -484,11 +493,47 @@
    [[http://www.bz-berlin.de/kultur/musik/russland-tritt-nicht-beim-esc-in-kiew-an]]
 
 
-** Netanjahu macht Drohung wahr und sagt Treffen mit Gabriel ab
+** DONE [#A] Netanjahu macht Drohung wahr und sagt Treffen mit Gabriel ab | Netanjahu make his Threaten true and cancel Meeting with Gabriel | Netanjahu、先に脅していたとおり、Gabrielとの会議をキャンセル
+   CLOSED: [2017-04-28 Fri 18:46]
+   CLOCK: [2017-04-26 Wed 10:22]--[2017-04-29 Sat 20:08] => 81:46
    [2017-04-25 Tue 14:21]
-                           <![CDATA[Diplomatischer Affront in Israel: Ministerpräsident Benjamin Netanjahu hat Außenminister Sigmar Gabriel am Dienstag nicht empfangen – ein für 16 Uhr geplantes Treffen ließ der Premier kurzfristig einfach platzen.]]>
+*** Netanjahu macht Drohung wahr und sagt Treffen mit Gabriel ab | Netanjahu make his Threaten true and cancel Meeting with Gabriel | Netanjahu、先に脅していたとおり、Gabrielとの会議をキャンセル
+   [2017-04-25 Tue 14:21]
+
+**** Netanjahu macht Drohung wahr und sagt Treffen mit Gabriel ab | Netanjahu make his Threaten true and cancel Meeting with Gabriel | Netanjahu、先に脅していたとおり、Gabrielとの会議をキャンセル
+    [2017-04-25 Tue 14:21]
+
+     Diplomatischer Affront in Israel: Ministerpräsident Benjamin Netanjahu hat Außenminister Sigmar Gabriel am Dienstag nicht empfangen – ein für 16 Uhr geplantes Treffen ließ der Premier kurzfristig einfach platzen.
                       
-   [[http://www.bz-berlin.de/welt/netanjahu-macht-drohung-wahr-und-sagt-treffen-mit-gabriel-ab]]
+     [[http://www.bz-berlin.de/welt/netanjahu-macht-drohung-wahr-und-sagt-treffen-mit-gabriel-ab]]
+**** translation
+     Diplomatic affront in Israel: President Benjamin Netanjahu didn't greet the foreign minister, Gabriel on Tuesday - the Prime Minister simply keep refusing the planned meeting for 16 hours.
+
+**** 翻訳
+     イスラエルで外交上の無礼：（イスラエルの）Benjamin Netanjahu 大統領は（ドイツの）Gabriel外相との会談を火曜日にとりやめた。首相はただひたすらに16時間予定されていた会談に出席することを拒みつづけた。
+
+**** word
+     - wahr
+       - true
+     - Drohung
+       - threat
+     - absagen
+       - cancel
+     - Affront
+       - affront
+	 - 侮辱
+     - geplantes
+       - geplant
+     - Außenminister
+       - foreign miniseer
+     - Premier
+       - premier, prime minister
+	 - 首相
+     - ließ
+       - lassen
+     - platzen
+       - burst
+     - kurzfristig
 
 
 ** „Grey’s Anatomy”-Star Jesse Williams lässt sich scheiden
@@ -601,8 +646,582 @@
                       
    [[http://www.bz-berlin.de/berlin/jetzt-bin-ich-ein-amerikanischer-berliner]]
 
+** Basketballtrainer soll Schülerin (15) vergewaltigt haben, leugnet die Tat
+   [2017-04-27 Thu 20:03]
+                           <![CDATA[Sie lernten sich über das Internet kennen, er umschmeichelte sie wochenlang. Beim Treffen in einem Wald soll es zu angeblich zu einer Vergewaltigung gekommen sein. ]]>
+                      
+   [[http://www.bz-berlin.de/tatort/menschen-vor-gericht/basketballtrainer-soll-15-jaehrige-schuelerin-vergewaltigt-haben-leugnet-die-tat]]
 
 
+** Koranlehrer prügelt Schüler (11) tot, weil er „laut“ war
+   [2017-04-27 Thu 20:35]
+                           <![CDATA[In Folge einer Prügelstrafe starb ein elfjähriger Junge - nun werden in Malaysia Rufe nach der Schließung privater Islamschulen laut.]]>
+                      
+   [[http://www.bz-berlin.de/welt/koranlehrer-pruegelt-schueler-11-tot-weil-er-laut-war]]
 
+
+** Immer mehr Berlinern werden Strom und Gas abgestellt
+   [2017-04-27 Thu 20:47]
+                           <![CDATA[Das Licht bleibt aus und die Heizung kalt. Wenn man seine Rechnung nicht bezahlt, kann der Energieversorger die Leitung zudrehen. In Berlin passiert das wieder deutlich häufiger. ]]>
+                      
+   [[http://www.bz-berlin.de/berlin/immer-mehr-berlinern-werden-strom-und-gas-abgestellt]]
+
+
+** Netanjahu wirft Gabriel Instinktlosigkeit vor
+   [2017-04-27 Thu 23:54]
+   <![CDATA[Nach dem Eklat bei Gabriels Israel-Besuch kritisiert Netanjahu das Verhalten des deutschen Außenministers. Für sein Treffen mit Regierungskritikern habe Gabriel einen besonders unpassenden Zeitpunkt gewählt - und dann eine Versöhnung verweigert.]]>
+                      
+   [[http://www.bz-berlin.de/welt/netanjahu-wirft-gabriel-instinktlosigkeit-vor]]
+
+
+** Kampf gegen Eichenprozessionsspinner geht weiter
+   [2017-04-28 Fri 00:26]
+                           <![CDATA[Die Raupen der Eichenprozessionsspinner sind gefährlich. Nicht nur ihre Fresslust ist berüchtigt. Sie können auch Hautreizungen und Allergien verursachen.]]>
+                      
+   [[http://www.bz-berlin.de/brandenburg/aktionen-gegen-eichenprozessionsspinner-starten]]
+
+
+** Vernebelungsanlage schlägt Blitzeinbrecher in die Flucht
+   [2017-04-28 Fri 01:36]
+                           <![CDATA[Ein oder mehrere Täter versuchten am frühen Freitagmorgen in eine Tankstelle am Teltower Damm einzubrechen. Doch die Alarmanlage machte ihnen einen Strich durch die Rechnung. Statt zum Blitzeinbruch kam es zur Nebelflucht.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/steglitz-zehlendorf/vernebelungsanlage-schlaegt-blitzeinbrecher-in-die-flucht]]
+
+
+** Berlin-News: Was gestern geschah und heute wichtig wird
+   [2017-04-28 Fri 03:01]
+                           <![CDATA[Der Überblick am Morgen: In Zehlendorf wollten Einbrecher in eine Tankstelle einsteigen. Doch die Vernebelungsanlage machte Ihnen einen Strich durch die Rechnung. Heute beginnt das Berliner Gallery Weekend. ]]>
+                      
+   [[http://www.bz-berlin.de/berlin/berlin-news-was-gestern-geschah-und-heute-wichtig-wird-2017-04-28]]
+
+
+** BVG kontert lässig Slogan-Diebstahl von easyJet
+   [2017-04-28 Fri 04:15]
+                           <![CDATA[Das Social Media-Team der Berliner Verkehrsbetriebe ist um keinen lässigen Spruch verlegen. Das muss auch die Billig-Airline "easyJet" feststellen, nachdem sie einen bekannten BVG-Slogan kopiert hatte.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/bvg-kontert-laessig-slogan-diebstahl-von-easyjet]]
+
+
+** Antiterror-Aktion in London – Vier Festnahmen, Frau angeschossen
+   [2017-04-28 Fri 04:16]
+                           <![CDATA[Bei einer Antiterror-Aktion in London und Kent hat die Polizei in der Nacht zum Freitag vier Verdächtige festgenommen. Eine Frau wurde angeschossen.]]>
+                      
+   [[http://www.bz-berlin.de/welt/antiterror-aktion-in-london-vier-festnahmen-frau-angeschossen]]
+
+
+** „Die Spieler sagen Thomas zu mir“
+   [2017-04-28 Fri 05:24]
+                           <![CDATA[Albas neuer Trainer spricht in der B.Z. über seinen Führungsstil und die Anspannung vor dem ersten Spiel.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/alba-berlin/die-spieler-sagen-thomas-zu-mir]]
+
+
+** Union entert den Auswärtsblock gegen Sandhausen
+   [2017-04-28 Fri 06:30]
+                           <![CDATA[Im Aufstiegskampf mobilisiert Union die Massen. Freitag (18.30 Uhr) gegen Sandhausen ist die Alte Försterei mit 22.012 Besuchern ausverkauft. Obwohl weniger als 100 Anhänger aus Sandhausen anreisen.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/union-berlin/union-entert-den-auswaertsblock-gegen-sandhausen]]
+
+
+** Bachelor lud Obdachlose zum Gratisessen – doch das ging  richtig in die Rose
+   [2017-04-28 Fri 06:34]
+                           <![CDATA[TV-Star Leonard Freier wollte den Berliner Obdachlosen helfen – aber kaum jemand kam. Warum nur? ]]>
+                      
+   [[http://www.bz-berlin.de/leute/bachelor-lud-obdachlose-zum-gratisessen-doch-das-ging-richtig-in-die-rose]]
+
+
+** In dieser Grube wurden 3000 Jahre Berliner Geschichte freigelegt
+   [2017-04-28 Fri 06:35]
+                           <![CDATA[Archäologen entdeckten in Köpenick eine Germanen-Siedlung der Eisenzeit, die ganz neue Erkenntnisse über die frühren Bewohner des Gebiets offenbaren.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/treptow-koepenick/in-dieser-grube-wurden-3000-jahre-berliner-geschichte-freigelegt]]
+
+
+** Wer bekommt eine der begehrten „Lolas“ in Berlin?
+   [2017-04-28 Fri 06:36]
+                           <![CDATA[Sie gilt als "deutscher Oscar" und ist hierzulande der höchstdotierte Kulturpreis. Am Freitagabend wird in Berlin die "Lola" verliehen.]]>
+                      
+   [[http://www.bz-berlin.de/kultur/film/wer-bekommt-eine-der-begehrten-lolas-in-berlin]]
+
+
+** Dieser Ex-Knacki will Wladimir Klitschko in Rente schicken
+   [2017-04-28 Fri 06:37]
+                           <![CDATA[Noch nie hatte Wladimir so einen starken Gegner im Ring: Ex-Knacki Anthony Oluwafemi Olaseni Joshua (27) will den Ukrainer in London in Rente schicken!]]>
+                      
+   [[http://www.bz-berlin.de/sport/mehr-sport/dieser-ex-knacki-will-wladimir-klitschko-in-rente-schicken]]
+
+
+** Jordan Torunarigha: „Ich will eigentlich jedes Spiel ein Tor schießen“
+   [2017-04-28 Fri 06:50]
+                           <![CDATA[Hertha-Juwel Jordan Torunarigha  ist eines der größten Talente des Klubs. In der B.Z. erklärt er,  warum ihm das Stürmen in die Wiege gelegt wurde, obwohl er  Verteidiger ist.]]>
+                      
+   [[http://www.bz-berlin.de/berlin-sport/hertha-bsc/jordan-torunarigha-ich-will-eigentlich-jedes-spiel-ein-tor-schiessen]]
+
+
+** Mercedes-Fahrer übersieht Tram: Mensch und mitfahrender Hund bleiben unverletzt
+   [2017-04-28 Fri 08:24]
+                           <![CDATA[Am Donnerstagabend kam es zu einem Zusammenstoß zwischen dem Wagen und einer Straßenbahn. Grund war vermutlich die Unachtsamkeit des Autofahrers.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/pankow/mercedes-fahrer-uebersieht-tram-mensch-und-mitfahrender-hund-bleiben-unverletzt]]
+
+
+** Dessous-Dieb trug seine Beute noch am Körper
+   [2017-04-28 Fri 08:32]
+                           <![CDATA[Da staunten auch die Polizeibeamten nicht schlecht. In der Nacht von Donnerstag auf Freitag ertappten sie in Weißensee einen mutmaßlichen Einbrecher - er hatte das Diebesgut gleich übergezogen.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/pankow/dessous-dieb-trug-seine-beute-noch-am-koerper]]
+
+
+** Diese Jury gibt es seit 25 Jahren im TV
+   [2017-04-28 Fri 08:46]
+                           <![CDATA[Seit einem Vierteljahrhundert moderiert Tatjana Jury die RBB-Sendung „Brandenburg aktuell“. Sie möchte zeigen, was Brandenburg zu bieten hat und ist keinesfalls gelangweilt.]]>
+                      
+   [[http://www.bz-berlin.de/kultur/fernsehen/diese-jury-gibt-es-seit-25-jahren-im-tv]]
+
+
+** Rekordverlust für Air Berlin!
+   [2017-04-28 Fri 08:56]
+                           <![CDATA[Es wird eng für Air Berlin. Das angeschlagene Unternehmen machte 2016 exakt 781,9 Millionen Euro Verlust, wie die Airline am Freitag mitteilte. ]]>
+                      
+   [[http://www.bz-berlin.de/berlin/rekordverlust-bei-air-berlin]]
+
+** Urban-Klinik: Mann bedrohte Polizisten mit Schreckschuss-Pistole
+   [2017-04-28 Fri 09:57]
+                           <![CDATA[Neue Erkenntnisse zu den Schüssen eines Polizisten auf einen Mann vor dem Urban-Krankenhaus. Die Waffe, mit der der Mann drei Polizisten bedroht hat, war eine Schreckschusswaffe.]]>
+                      
+   [[http://www.bz-berlin.de/berlin/friedrichshain-kreuzberg/urban-klinik-mann-bedrohte-polizisten-mit-schreckschuss-pistole]]
+
+
+* SPIEGEL ONLINE
+
+  :FEEDSTATUS:
+(("http://www.spiegel.de/politik/ausland/mazedonien-pruegelei-im-parlament-djordje-ivanov-ruft-zu-besonnenheit-auf-a-1145225.html" t "fb46f4865257f5b6d9402711bba745a3485d8649")
+ ("http://www.spiegel.de/politik/deutschland/fdp-mit-christian-lindner-zurueck-in-den-bundestag-a-1145112.html" t "17eca17844b07abd1c12e9cb7b24652c4d79b7c0")
+ ("http://www.spiegel.de/politik/ausland/fluechtlinge-in-den-eu-streit-ueber-die-verteilung-von-migranten-kommt-bewegung-a-1145248.html" t "1c4a0eb589edc920040454bd553feebeed254c15")
+ ("http://www.spiegel.de/wirtschaft/deutschlands-leistungsbilanzueberschuss-und-spardiktat-damit-muss-schluss-sein-kolumne-a-1145156.html" t "2c16b0626ed84217ddeee9ff1f7c5cb42d18da98")
+ ("http://www.spiegel.de/wirtschaft/unternehmen/air-berlin-meldet-rekordverlust-a-1145259.html" t "8358bbf81e5183b476a5fe84ad06b1652a2d3b9e")
+ ("http://www.spiegel.de/reise/aktuell/germanwings-airlines-wollen-piloten-wieder-allein-ins-cockpit-lassen-a-1145229.html" t "47b484f23d91cef1491b2aaa2aa2e85c62519a87")
+ ("http://www.spiegel.de/politik/ausland/schweden-fuenftes-todesopfer-nach-terroranschlag-in-stockholm-a-1145243.html" t "ba921f4ffee5a637400d28670acdd422b30ddfb0")
+ ("http://www.spiegel.de/fotostrecke/pendeln-ideen-gegen-den-wahnsinn-fotostrecke-146385.html" t "8f4f85350e1bc07b5ca26e223ab8c91c6e3050de")
+ ("http://www.spiegel.de/spiegel/unterwuerfige-mitarbeiter-wie-schleimscheisser-der-firma-schaden-a-1144623.html" t "a6b6992ab350abda863ac319feaf7a930e95c121")
+ ("http://www.spiegel.de/panorama/gesellschaft/a2-bei-lauen-lastwagen-kippt-auf-auto-mutter-und-sohn-sterben-a-1145208.html" t "da23a64fd834b47c048256af2b3e102867df7077")
+ ("http://www.spiegel.de/einestages/ueberlaeufer-andrej-wlassow-general-fuer-stalin-und-fuer-hitler-a-1135574.html" t "189da616cbec246ee0708c81e1fc664633e72d1d")
+ ("http://www.spiegel.de/fotostrecke/gehirn-im-querschnitt-rotschopf-fotostrecke-146980.html" t "9c6c82934a0e6132fe295941055a3405271c6227")
+ ("http://www.bento.de/trip/reisen-in-italien-portugal-niederlande-diese-orte-in-europa-jetzt-bereisen-1317135/#refsponi" t "f7b71a9c4aa3ed1af86bdf20cfa69a83670173b1")
+ ("http://www.spiegel.de/auto/fahrberichte/porsche-911-gt3-ein-rennsportwagen-mit-strassenzulassung-a-1144968.html" t "3407235a969a3b5d57d052100b57b7537a19d88f"))
+  :END:
+** Porsche 911 GT3: Piste bereit?
+   [2017-04-28 Fri 09:15]
+   Viele Porsche-Modelle sind längst Luxusliner. Mit dem GT3 kann man sich dagegen problemlos auf die Rennstrecke wagen. Die neueste Variante hat wieder ein Schaltgetriebe - und vielleicht zum letzten Mal einen Saugmotor. 
+   [[http://www.spiegel.de/auto/fahrberichte/porsche-911-gt3-ein-rennsportwagen-mit-strassenzulassung-a-1144968.html]]
+
+
+** Fernweh nach Europa: Die besten Ziele für eine Frühlingsreise
+   [2017-04-28 Fri 11:36]
+   Sie haben noch ein Wochenende frei und wollen keinen Langstreckenflug buchen, um sich zu entspannen? Wir zeigen Ziele, die Sie jetzt bereisen sollten - aber Achtung: Hier gibt es kaum Handyempfang!
+   [[http://www.bento.de/trip/reisen-in-italien-portugal-niederlande-diese-orte-in-europa-jetzt-bereisen-1317135/#refsponi]]
+
+
+** Was zeigen diese Fotos?: Kohl? Blume? Flussmündung? Kleiddesign?
+   [2017-04-28 Fri 11:23]
+   Manche halten sie für Luftaufnahmen, andere für Detailfotografie von Lebensmitteln. Was zeigen diese Bilder wirklich?
+   [[http://www.spiegel.de/fotostrecke/gehirn-im-querschnitt-rotschopf-fotostrecke-146980.html]]
+
+
+** Russischer Überläufer Andrej Wlassow: Stalins Held, Hitlers General
+   [2017-04-28 Fri 10:34]
+   Mitten im Zweiten Weltkrieg wechselte ein Held der Roten Armee zu den Nazis. General Wlassow befehligte ein Heer übergelaufener Russen, das mit dem "Dritten Reich" unterging. Was trieb ihn an?
+   [[http://www.spiegel.de/einestages/ueberlaeufer-andrej-wlassow-general-fuer-stalin-und-fuer-hitler-a-1135574.html]]
+
+
+** Schwerer Unfall auf der A2: Lastwagen kippt auf Auto - Mutter und Sohn sterben
+   [2017-04-28 Fri 04:38]
+   Ein Lkw-Fahrer hat auf der A2 offenbar ein Stauende übersehen und ist auf einen Geländewagen aufgefahren. Danach kippte das Führerhaus auf den Pkw, eine Mutter und ihr Sohn starben noch am Unfallort.
+   [[http://www.spiegel.de/panorama/gesellschaft/a2-bei-lauen-lastwagen-kippt-auf-auto-mutter-und-sohn-sterben-a-1145208.html]]
+
+
+** Karriere: Wie devote Jasager der Firma schaden
+   [2017-04-28 Fri 09:45]
+   Alltag in deutschen Büros: Der Chef stellt mal wieder einen irren Plan vor, doch keiner im Team widerspricht. Warum ducken sich alle weg?
+   [[http://www.spiegel.de/spiegel/unterwuerfige-mitarbeiter-wie-schleimscheisser-der-firma-schaden-a-1144623.html]]
+
+
+** Ideen gegen den Pendler-Wahnsinn: Tschüss Stau
+   [2017-04-28 Fri 05:13]
+   Endlich Freitag! Aber viele Menschen starten stockend ins lange Wochenende - sie stehen erstmal im Stau. Wir haben Ideen gesammelt, wie man in Zukunft ohne Auto ans Ziel kommen könnte. 
+   [[http://www.spiegel.de/fotostrecke/pendeln-ideen-gegen-den-wahnsinn-fotostrecke-146385.html]]
+
+
+** Schweden: Fünftes Opfer stirbt nach Terroranschlag in Stockholm
+   [2017-04-28 Fri 10:42]
+   Vier Menschen waren sofort tot, als der Lkw vor drei Wochen in die Stockholmer Einkaufsstraße raste. Jetzt ist ein fünftes Opfer des Terroranschlags gestorben. 
+   [[http://www.spiegel.de/politik/ausland/schweden-fuenftes-todesopfer-nach-terroranschlag-in-stockholm-a-1145243.html]]
+
+
+** Flugsicherheit: Piloten dürfen wieder allein im Cockpit sein 
+   [2017-04-28 Fri 10:32]
+   Kein Sicherheitsgewinn: Die großen deutschen Fluggesellschaften wollen die nach der Germanwings-Katastrophe eingeführte Zwei-Personen-Regelung zurücknehmen. Den Schutz der Passagiere wollen sie anders gewährleisten.
+   [[http://www.spiegel.de/reise/aktuell/germanwings-airlines-wollen-piloten-wieder-allein-ins-cockpit-lassen-a-1145229.html]]
+
+
+** Krisen-Airline: Air Berlin meldet Rekordverlust
+   [2017-04-28 Fri 11:31]
+   Schon wieder ein dickes Minus: Air Berlin hat im vergangenen Jahr einen Rekordverlust eingefahren. Auch der Jahresauftakt 2017 lässt nicht auf eine Besserung hoffen.
+   [[http://www.spiegel.de/wirtschaft/unternehmen/air-berlin-meldet-rekordverlust-a-1145259.html]]
+
+
+** Exportüberschüsse und Spardiktat: Zum Heulen
+   [2017-04-28 Fri 11:36]
+   In Deutschland herrscht Wehklagen, dass wir überall als Buhleute gelten - ob in Trumponesien oder Frankreich. Dabei bräuchten wir tatsächlich dringend einen Schuss Selbstkritik. Und überzeugendere Argumente. 
+   [[http://www.spiegel.de/wirtschaft/deutschlands-leistungsbilanzueberschuss-und-spardiktat-damit-muss-schluss-sein-kolumne-a-1145156.html]]
+
+
+** EU-Streit um Flüchtlingsquoten: Wer viele aufnimmt, soll belohnt werden
+   [2017-04-28 Fri 12:04]
+   Durchbruch im Streit um die Flüchtlingsverteilung in der EU? Dem SPIEGEL liegt ein Kompromisspapier der maltesischen Ratspräsidentschaft vor. Die Idee: Finanzielle Anreize für die Aufnahme von Flüchtlingen.
+   [[http://www.spiegel.de/politik/ausland/fluechtlinge-in-den-eu-streit-ueber-die-verteilung-von-migranten-kommt-bewegung-a-1145248.html]]
+
+
+** FDP-Chef Lindner: Die One-Man-Show
+   [2017-04-28 Fri 09:13]
+   Auf ihrem Parteitag will die FDP ihr Wahlprogramm verabschieden. Aber vor allem soll Christian Lindner als Vorsitzender wiedergewählt werden. Er muss als Spitzenkandidat das Überleben der Liberalen sichern. 
+   [[http://www.spiegel.de/politik/deutschland/fdp-mit-christian-lindner-zurueck-in-den-bundestag-a-1145112.html]]
+
+
+** DONE [#A] Mazedonien: Schläger im Parlament sorgen weltweit für Entsetzen
+   CLOSED: [2017-04-29 Sat 20:51]
+   [2017-04-28 Fri 10:39]
+
+*** Mazedonien: Schläger im Parlament sorgen weltweit für Entsetzen | Makedonien: Batter in parliament worries worldwid | マケドニア： 世界を震撼させた国会での襲撃者
+    [2017-04-28 Fri 10:39]
+
+    Nach den brutalen Ausschreitungen in Mazedoniens Parlament mahnt Staatspräsident Ivanov zu Mäßigung. Dabei hat er selbst zur politischen Krise des Landes beigetragen. 
+    quoted: [[http://www.spiegel.de/politik/ausland/mazedonien-pruegelei-im-parlament-djordje-ivanov-ruft-zu-besonnenheit-auf-a-1145225.html]]
+
+*** translation
+    After the brutal act of violence in Makedonnie Parliament, the prime minister Ivanov quitted. At that, he contributed himself to the crisis of the country.
+
+*** 翻訳
+    マケドニアの国会において暴行事件が起きた後、Ivanov首相は辞職した。彼自身が国家の危機を招いたためである。
+
+*** word
+    - Mazendonien
+      - Makedonien
+    - Schläger
+      - batter
+    - Parlament
+      - Parliament
+    - Entsetzen
+      - horror
+    - die Ausschreitung
+      - act of violece
+    - Mäßigung
+      - moderation
+    - beigetragen
+      - beitragen
+	- contribute
+    - selbst
+      - himself
+
+* Taggeschau
+
+  :FEEDSTATUS:
+(("http://www.phoenix.de/livestream/" t "8bd3c13d13cfb57e6ed615c05794532c3f6e4388")
+ ("http://www.tagesschau.de/wirtschaft/air-berlin-rekordverlust-101.html" t "0710778afc4f42b32298a08de87b7a17eee60fdb")
+ ("http://www.tagesschau.de/wirtschaft/selbstfahrende-auto-china-101.html" t "fb9d5d8c747a82e116154522cbc29d074d18c156")
+ ("http://www.tagesschau.de/ausland/nordkorea-china-usa-101.html" t "4e05c6930850b708f7fecb28410d7dd6e84eaa3d")
+ ("http://www.tagesschau.de/ausland/anschlag-stockholm-terror-101.html" t "cb1a3417c73edf449d3ed769e185599b7a665cca")
+ ("http://www.tagesschau.de/inland/referendum-todesstrafe-tuerkei-101.html" t "064beb2ec3f9c35cf6add63275adbbd31dc7083b")
+ ("http://www.tagesschau.de/ausland/trump-hundert-tage-103.html" t "e29da6ec8a85ab711bf3300711bf7177293f6f33")
+ ("http://www.tagesschau.de/ausland/trump-nordkorea-107.html" t "5f19d1c6ef92431521f7720d43afe79a1dc3a99b")
+ ("http://www.tagesschau.de/ausland/gabriel-netanyahu-101.html" t "61907aeab6aa28bd48479969d49c8d3ce305b790")
+ ("http://www.tagesschau.de/wirtschaft/us-technologiekonzerne-101.html" t "1323b95126b4ef73815870251d7b3cb0bc60f811")
+ ("http://www.tagesschau.de/ausland/london-anti-terror-einsatz-101.html" t "23766ae1fd868b26b4306a7e45174965b86ee87d")
+ ("http://www.tagesschau.de/ausland/trump-kabinett-115.html" t "9f1c10faf09ea249088e28944369efc1fb76221a")
+ ("http://www.tagesschau.de/ausland/eu-tuerkei-167.html" t "4fdc67444e23b51b68e925288c050d2400995ce3")
+ ("http://www.tagesschau.de/ausland/papst-aegypten-interview-101.html" t "317c492ea5ccdf5a8918b4907740c0c2a0589fde")
+ ("http://www.tagesschau.de/ausland/nordkorea-469.html" t "3b62411dc98ba2e8616fcdf203d1b74f818307fd")
+ ("http://www.tagesschau.de/inland/schrebergarten-101.html" t "f6b6470016ead9855d17fab0be7885716ff99ce1")
+ ("http://www.tagesschau.de/inland/bundeswehrsoldat-anschlag-103.html" t "28cb883d41b9bddca351edc635c034afb2c67aee")
+ ("http://www.tagesschau.de/ausland/mazedonien-parlament-103.html" t "429bfa9068b720602a1df6eecfa05dd4302dc7b7")
+ ("http://www.tagesschau.de/inland/fdp-193.html" t "0fc772808b7ce7171f6598be233ff985ffbf85e6")
+ ("http://www.tagesschau.de/inland/bundestag-sicherheitspaket-101.html" t "6b77fbc5b4bb34ed849ab2d5d56c8fece0b257ff")
+ ("http://www.tagesschau.de/inland/bundestag-alterspraesident-101.html" t "5a4c5ff6e1ab4aefce773f3eef48c7ceed0eef9e")
+ ("http://www.tagesschau.de/ardimport/regional/sachsen/mdr-story-3397.html" t "3f1882a2e2afea1b1b0ff84bb979467553434272")
+ ("http://www.tagesschau.de/inland/vorwahlumfrage-schleswig-holstein-101.html" t "a903e997eed60f0fec90ed8fe1e52e1212b49629")
+ ("http://www.tagesschau.de/inland/vergleichsportale-bgh-107.html" t "de02c8136d24baa0258449bab102807742bd4286")
+ ("http://www.tagesschau.de/ausland/schulz-343.html" t "68cd8b2cb77bb7e20b3d7d832646081bf670832c")
+ ("http://www.tagesschau.de/inland/medikamentenreserve-montgomery-101.html" t "0e47f15022f92f4714dc635396854eea399903e0")
+ ("http://www.tagesschau.de/ausland/festnahme-parlamentlondon-101.html" t "dd38f0d34774957ec71eb6d5af84381bda9c7c74")
+ ("http://www.tagesschau.de/ausland/afrika-109.html" t "04c9b65e3570a694b97669326996ca850e750c3f")
+ ("http://www.tagesschau.de/ausland/nachtschicht-101.html" t "f50f9bb48c2d0984ba13c57801d1cfa9cbdb09f2")
+ ("http://www.tagesschau.de/inland/vergleichsportale-bgh-105.html" t "947a9a05c4334f70bfe8007e71f025aaf378f7cf")
+ ("http://www.tagesschau.de/ausland/tuerkeirussland-kollision-101.html" t "74db2e68310a6abe9e4d68b578bef5e3166202f7")
+ ("http://www.tagesschau.de/ardimport/regional/bayern/br-story-2295.html" t "3df2497b34a1f221f6a16f600203ef9c5e6d67a6")
+ ("http://www.tagesschau.de/ausland/schulz-341.html" t "913fabe39de131ca2e15df692430a503f1dc9eea")
+ ("http://www.tagesschau.de/wirtschaft/ezb-leitzins-123.html" t "db2fbdd1009c6a4d2184bb8d1da07c0feef6999e")
+ ("http://www.tagesschau.de/ausland/frankreich-439.html" t "089610b00da8cfd683bf7c3ab87e0af1ab7924ba")
+ ("http://www.tagesschau.de/inland/kohl-biografie-schadenersatz-101.html" t "32709edda1ea639b3c39ed40f16edf5963936af8")
+ ("http://www.tagesschau.de/inland/terrorismus-113.html" t "ac6a7729b775fd3a048785262ad6ee387c97dbc7")
+ ("http://www.tagesschau.de/wirtschaft/alitalia-109.html" t "8f9b290ac2cc30186328102b5bce891a26a1173d")
+ ("http://www.tagesschau.de/inland/bundeswehrsoldat-anschlag-101.html" t "3cd8cc4c7aba442efa5a8814b97da56239fa0660")
+ ("http://boerse.ard.de/aktien/lufthansa-wenn-nur-die-hohen-kosten-nicht-waeren100.html" t "9df92335c5a69191ba23f3362f35c109fdc33e6b"))
+  :END:
+** Lufthansa: Schwarze Zahlen, aber hohe Kosten
+   [2017-04-27 Thu 11:04]
+   Die Lufthansa hat im traditionell schwachen ersten Quartal ein positives Ergebnis erreicht - dank der Fracht- und Technik-Sparten. Im Passagiergeschäft ging es hingegen abwärts. Sorgen bereiten der Airline die wieder gestiegenen Treibstoffpreise.
+   [[http://boerse.ard.de/aktien/lufthansa-wenn-nur-die-hohen-kosten-nicht-waeren100.html]]
+
+
+** Plante Bundeswehrsoldat Anschlag als Flüchtling getarnt?
+   [2017-04-27 Thu 17:05]
+   Der Fall mutet bizarr an: Ein Bundeswehrsoldat soll einen Anschlag geplant haben - getarnt als Flüchtling. Die Frankfurter Staatsanwaltschaft nahm ihn und einen weiteren Mann unter Terrorverdacht fest. Offenbar war Fremdenhass das Motiv.
+   [[http://www.tagesschau.de/inland/bundeswehrsoldat-anschlag-101.html]]
+
+
+** Alitalia-Übernahme: Lufthansa winkt ab
+   [2017-04-27 Thu 12:16]
+   "Wir sind nicht da, um Alitalia zu kaufen." Die Absage des Lufthansa-Finanzvorstands Svensson ist deutlich. Damit wird die Luft dünn für die marode italienische Fluggesellschaft. Das drohende Aus schafft auch Probleme für die  kriselnde Air Berlin.
+   [[http://www.tagesschau.de/wirtschaft/alitalia-109.html]]
+
+
+** Festgenommener Bundeswehrsoldat: "Er ist konspirativ vorgegangen"
+   [2017-04-27 Thu 12:57]
+   Wie gefährlich ist der festgenommene und unter Terrorverdacht stehende Bundeswehrsoldat wirklich? Und welche Rolle spielt das Waffenversteck am Wiener Flughafen bei seinen Anschlagsplänen? Eine Einschätzung von Michael Stempfle.
+   [[http://www.tagesschau.de/inland/terrorismus-113.html]]
+
+
+** Gericht spricht Kohl eine Million Schadenersatz zu
+   [2017-04-27 Thu 13:38]
+   Das Landgericht Köln hat Altkanzler Kohl Schadenersatz in Höhe von einer Million Euro zugesprochen. Das Buch "Vermächtnis: Die Kohl-Protokolle" des Biografen Schwan habe das Persönlichkeitsrecht Kohls schwer verletzt, so die Richter.
+   [[http://www.tagesschau.de/inland/kohl-biografie-schadenersatz-101.html]]
+
+
+** Wahlkampf in Frankreich: Wer ist der bessere Franzose?
+   [2017-04-27 Thu 13:50]
+   Der Wahlkampf in Frankreich geht in die zweite Runde. Rechtspopulistin Le Pen präsentiert sich als "bessere" Patriotin und als Beschützerin der französischen Identität. Der parteilose Macron steht für die Vielfalt der Kulturen. Von Barbara Kostolnik.
+   [[http://www.tagesschau.de/ausland/frankreich-439.html]]
+
+
+** EZB belässt Leitzins auf Null
+   [2017-04-27 Thu 15:10]
+   Anders als in den USA gibt es in Europa weiter keine Zinswende: Die Europäische Zentralbank belässt den Leitzins bei null Prozent. Damit befindet sich dieser seit gut einem Jahr auf dem Rekordtief. Ziel ist es weiter, die Inflation zu steigern.
+   [[http://www.tagesschau.de/wirtschaft/ezb-leitzins-123.html]]
+
+
+** Umstrittene Personalpolitik: EU-Parlament rügt Schulz
+   [2017-04-27 Thu 14:36]
+   Aus Brüssel kommen unangenehme Neuigkeiten für SPD-Kanzlerkandidat Schulz. Das EU-Parlament stellt mehrheitlich die Personalpolitik seines früheren Präsidenten infrage. Ein vom politischen Gegner initiiertes Wahlkampfmanöver?
+   [[http://www.tagesschau.de/ausland/schulz-341.html]]
+
+
+** Ermittlungen gegen Schützenverein: Beziehungen zu "Pegida"?
+   [2017-04-27 Thu 14:09]
+   Die Polizei hat Durchsuchungen bei der "Bayerischen Schießsportgruppe München" durchgeführt. Das Landesinnenministerium sieht enge personelle Überschneidungen mit "Pegida" München. Es besteht der Verdacht, dass der Verein nur zum Schein existiere.
+   [[http://www.tagesschau.de/ardimport/regional/bayern/br-story-2295.html]]
+
+
+** Schiffskollision: Russischer Aufklärer sinkt am Bosporus
+   [2017-04-27 Thu 15:11]
+   Vor der türkischen Küste im Schwarzen Meer ist ein russischer Auflklärer mit einem Viehfrachter zusammengestoßen. Alle Besatzungsmitglieder wurden gerettet. Moskau entsendete Kriegsschiffe und ein Flugzeug zum Unglücksort.
+   [[http://www.tagesschau.de/ausland/tuerkeirussland-kollision-101.html]]
+
+
+** BGH: Vergleichsportale müssen Lücken im Angebot nennen
+   [2017-04-27 Thu 16:22]
+   Wer ein Vergleichsportal im Internet nutzt, der hofft auf eine möglichst komplette Marktübersicht. Viele Betreiber listen jedoch nur bestimmte Angebote auf, zum Beispiel, weil sie an deren Umsätzen beteiligt sind. Nun hat der BGH entschieden, dass die Nutzer dann darauf hingewiesen werden müssen.
+   [[http://www.tagesschau.de/inland/vergleichsportale-bgh-105.html]]
+
+
+** Dänemark: Babysitter auf Staatskosten
+   [2017-04-27 Thu 16:25]
+   Ärzte, Schwestern und Pfleger, Busfahrer, Polizisten, Köche - die Liste der Menschen, die regelmäßig nachts arbeiten müssen, ist lang. Doch wer betreut in dieser Zeit eigentlich die Kinder? Dänemark will nun einen ungewöhnlichen Weg gehen, um dieses Problem zu lösen.
+   [[http://www.tagesschau.de/ausland/nachtschicht-101.html]]
+
+
+** Kampf gegen Hunger: "Faire Handelsbeziehungen mit Afrika"
+   [2017-04-27 Thu 16:40]
+   Krisenkontinent Afrika - eine Mitschuld sieht der Chef der Welthungerhilfe auch bei den Industrienationen. Im Interview mit tagesschau24 fordert Till Wahnbaeck faire Handelsbeziehungen. Afrika dürfe nicht nur "als billiger Exporteur von Rohstoffen" gesehen werden.
+   [[http://www.tagesschau.de/ausland/afrika-109.html]]
+
+
+** London: Bewaffneter vor Parlament festgenommen
+   [2017-04-27 Thu 17:30]
+   Die britische Polizei hat einen Mann im Londoner Regierungsviertel wegen Terrorverdachts und Waffenbesitzes festgenommen. Das teilte Scotland Yard mit. Seit dem Anschlag im Parlamentsviertel am 22. März sind die Behörden hoch sensibilisiert.
+   [[http://www.tagesschau.de/ausland/festnahme-parlamentlondon-101.html]]
+
+
+** Ärztepräsident Montgomery fordert Medikamentenreserve
+   [2017-04-27 Thu 17:02]
+   Seit Monaten gibt es Nachschubprobleme bei bestimmten Narkosepräparaten. Ärztepräsident Montgomery fordert deshalb, dass in Deutschland für wichtige Medikamente eine Reserve angelegt wird. Wie das funktionieren soll, bleibt aber unklar. Von Martin Mair.
+   [[http://www.tagesschau.de/inland/medikamentenreserve-montgomery-101.html]]
+
+
+** Schulz kritisiert EU-Parlament: "Das ist Wahlkampf"
+   [2017-04-27 Thu 17:23]
+   Das EU-Parlament hat mit einer breiten Mehrheit der Abgeordneten die Personalpolitik seines früheren Präsidenten Schulz infrage gestellt. Im Gespräch mit der ARD wies der SPD-Kanzlerkandidat die Vorwürfe zurück. Von Karin Bensch.
+   [[http://www.tagesschau.de/ausland/schulz-343.html]]
+
+
+** BGH: Vergleichsportale müssen Verbraucher besser informieren
+   [2017-04-27 Thu 17:54]
+   Wie unabhängig Vergleichsportale im Internet sind, ist oft nicht klar. Denn die Dienstleister verdienen ihr Geld meist über Provisionen von den Firmen, die sie vergleichen. Jetzt entschied der BGH, dass die Portale die Verbraucher besser informieren müssen. Von Kolja Schwartz.
+   [[http://www.tagesschau.de/inland/vergleichsportale-bgh-107.html]]
+
+
+** Schleswig-HolsteinTrend: Mehrheit der Küstenkoalition wackelt
+   [2017-04-27 Thu 18:00]
+   Verliert die SPD die Wahl im Norden? Gut eine Woche vor Wahl liegt die CDU im Schleswig-HolsteinTrend knapp vorn. Die Küstenkoalition - also SPD, Grüne und SSW - könnte demnach knapp nicht weiterregieren. Von Ellen Ehni.
+   [[http://www.tagesschau.de/inland/vorwahlumfrage-schleswig-holstein-101.html]]
+
+
+** Fall "Arnsdorf" landet im Landtag
+   [2017-04-27 Thu 19:55]
+   Ein gefesselter Flüchtling, ein eingestelltes Gerichtsverfahren, Drohungen gegen die Ermittler - der Fall "Arnsdorf" wird immer undurchsichtiger. Jetzt will die Linkspartei im sächsischen Landtag die Fäden entwirren lassen.
+   [[http://www.tagesschau.de/ardimport/regional/sachsen/mdr-story-3397.html]]
+
+
+** Neue Alterspräsidenten-Regel im Bundestag kann kommen
+   [2017-04-27 Thu 19:27]
+   Der Bundestag darf sich eine neue Regel geben - und so verhindern, dass nach der Wahl eventuell ein AfD-Politiker die Eröffnungsrede des neuen Parlaments hält. Der Geschäftsordnungsausschuss stimmte einem Vorschlag von Bundestagspräsident Lammert zu.
+   [[http://www.tagesschau.de/inland/bundestag-alterspraesident-101.html]]
+
+
+** Hintergrund: Von Fußfesseln bis Fluggastdaten
+   [2017-04-27 Thu 20:45]
+   Fluggastdaten, Fußfesseln, Schutz von Polizisten, BKA-Gesetz - bevor im Bundestagswahlkampf nichts mehr geht, will die Große Koalition noch mehrere Sicherheitsgesetze durch den Bundestag bringen. Worüber das Parlament beriet und entschied - ein Überblick.
+   [[http://www.tagesschau.de/inland/bundestag-sicherheitspaket-101.html]]
+
+
+** Bundesparteitag: Die FDP will wieder mitspielen
+   [2017-04-28 Fri 00:09]
+   Was genau will eigentlich die FDP? Sicher ist: weg von ihrem Image als steuersenkende Klientelpartei. Auf ihrem heute beginnenden Parteitag soll nun klar werden, wofür sie stattdessen steht. Streit dürfte es auch geben - etwa beim Doppelpass. Von Ariane Reimers.  
+   [[http://www.tagesschau.de/inland/fdp-193.html]]
+
+
+** Oberleutnant der Bundeswehr: Anschlagspläne aus Fremdenhass?
+   [2017-04-27 Thu 22:01]
+   Ein Bundeswehrsoldat aus Offenbach soll sich als Asylbewerber registriert und einen Anschlag geplant haben. Zunächst rätselten die Ermittler über das Motiv. Das scheint jedoch schlicht wie arglistig zu sein: Es geht wohl um Fremdenfeindlichkeit.
+   [[http://www.tagesschau.de/inland/bundeswehrsoldat-anschlag-103.html]]
+
+
+** Generationswechsel im Schrebergarten
+   [2017-04-27 Thu 23:43]
+   Einst sollten sie die Volksgesundheit fördern und die Lebensmittelversorgung verbessern, dann wurden sie zum Inbegriff des Spießertums: die Schrebergärten. Doch still und heimlich hat sich hier ein kleiner Kulturwandel vollzogen, wie Florian Gediehn zeigt.
+   [[http://www.tagesschau.de/inland/schrebergarten-101.html]]
+
+
+** DONE [#A] USA: China warnt Nordkorea vor neuem Atomtest
+   CLOSED: [2017-04-30 Sun 13:36]
+   [2017-04-28 Fri 08:30]
+*** USA: China warnt Nordkorea vor neuem Atomtest | USA: China warned Northkorea for new nuclear test | アメリカが発表：中国、北朝鮮に対して核実験を止めるよう警告
+   [2017-04-28 Fri 08:30]
+
+   Nordkoreas Machthaber Kim hat auf der Welt nur einen Verbündeten: China. Doch laut Aussagen von US-Außenminister Tillerson denkt auch Peking inzwischen über Sanktionen gegen Nordkorea nach. Gleichzeitig schloss US-Präsident Trump eine weitere Eskalation nicht aus.
+   [[http://www.tagesschau.de/ausland/nordkorea-469.html]]
+
+*** words
+    - Matchthaber
+      - ruler
+    - Verbündeten
+      - der/die Verbündete
+        - ally
+    - die Aussage
+      - statement
+    - Außenminister
+      - Foreign
+    - denkt ... nach
+      - nachdenken
+	- think / reflecton
+    - schloss ... aus
+      - ausschließen
+	- expel
+	- exclude
+
+*** translation
+    North Korea's ruler Kim has only one ally all over the world: China. However the loud statement from the US-Foreign Minister Tillerson reflected with Pekins also internally on the sanction against North Korea. At the same time US President Trump doesn't expel a further escalation.
+
+** Islam-Gelehrter: "Religion darf nicht ausgenutzt werden"
+   [2017-04-28 Fri 02:31]
+   Der Papst reist heute nach Ägypten. Was erhoffen sich Muslime von dem Besuch? Man wolle gemeinsam gegen Gewalt, Klimawandel und den Verfall der Werte kämpfen, sagt ein hochrangiger Islam-Gelehrter im ARD-Interview. Aber es gibt auch Dissens - etwa bei der Empfängnisverhütung.
+   [[http://www.tagesschau.de/ausland/papst-aegypten-interview-101.html]]
+
+
+** Die EU und die Türkei - Tür offen halten oder zuschlagen?
+   [2017-04-28 Fri 02:32]
+   Die EU-Außenminister diskutieren heute erstmals nach Erdogans Verfassungsreferendum über die Türkei. Im Raum steht, die Beitrittsgespräche weiterhin auf Eis zu legen oder ganz abzubrechen. Tür offen halten oder zuschlagen? Das ist eine extrem heikle Frage. Von Kai Küstner. 
+   [[http://www.tagesschau.de/ausland/eu-tuerkei-167.html]]
+
+
+** Senat bestätigt Acosta als Arbeitsminister im Trump-Kabinett
+   [2017-04-28 Fri 03:43]
+   US-Präsident Trump hatte mehrfach Probleme, seine Wunschkandidaten für Kabinettsposten durchzusetzen. Zuletzt fehlte ihm noch ein Arbeitsminister. Nun ist auch dieser Posten besetzt - mit dem einzigen Latino in Trumps Regierungsmannschaft.
+   [[http://www.tagesschau.de/ausland/trump-kabinett-115.html]]
+
+
+** Festnahmen bei erneutem Anti-Terror-Einsatz in London
+   [2017-04-28 Fri 11:55]
+   Gestern war in London ein Mann nahe des Parlaments unter Terrorverdacht festgenommen worden. In der Nacht gab es in der britischen Hauptstadt erneut einen Anti-Terror-Einsatz. Sechs Personen wurden dabei festgenommen, eine Frau angeschossen.
+   [[http://www.tagesschau.de/ausland/london-anti-terror-einsatz-101.html]]
+
+
+** US-Tech-Schwergewichte steigern Gewinne kräftig
+   [2017-04-28 Fri 05:32]
+   Drei US-Tech-Riesen haben Quartalszahlen vorgelegt - und alle drei haben blendend verdient: Die Google-Mutter konnte den Gewinn um 29 Prozent steigern, der Software-Gigant Microsoft um 30 und der Online-Händler Amazon sogar um 41 Prozent.
+   [[http://www.tagesschau.de/wirtschaft/us-technologiekonzerne-101.html]]
+
+
+** Netanyahu nennt Gabriel "instinktlos"
+   [2017-04-28 Fri 05:57]
+   Israels Ministerpräsident Netanyahu legt nach: Er hatte ein geplantes Treffen mit Bundesaußenminister Gabriel abgesagt, weil sich dieser mit regierungskritischen Gruppen in Israel getroffen hatte. In einem Zeitungsinterview warf er Gabriel nun Instinktlosigkeit vor.
+   [[http://www.tagesschau.de/ausland/gabriel-netanyahu-101.html]]
+
+
+** Trump schließt Eskalation mit Nordkorea nicht aus
+   [2017-04-28 Fri 07:27]
+   Der Nordkorea-Konflikt könnte sich laut US-Präsident Trump weiter zuspitzen. Eine diplomatische Lösung sei "sehr schwierig", erklärte er. Es bestehe die Möglichkeit, "dass wir am Ende einen großen, großen Konflikt mit Nordkorea haben".
+   [[http://www.tagesschau.de/ausland/trump-nordkorea-107.html]]
+
+
+** Trump: 100 Tage Achterbahnfahrt
+   [2017-04-28 Fri 09:06]
+   Morgen ist US-Präsident Trump genau 100 Tage im Amt - Zeit für eine Zwischenbilanz. Fest steht: Trump ist ein "Ankündigungsweltmeister". Kaum eines seiner Vorhaben konnte er bislang umsetzen. Dafür hat er die Spaltung Amerikas weiter vorangetrieben. Von Martin Ganslmeier.
+   [[http://www.tagesschau.de/ausland/trump-hundert-tage-103.html]]
+
+
+** Türken in Deutschland: "Ja" oder "Nein" zur Todesstrafe?
+   [2017-04-28 Fri 09:15]
+   Kaum hatte der türkische Präsident Erdogan das Referendum über das Präsidialsystem gewonnen, brachte er den nächsten Volksentscheid ins Spiel - über die Todesstrafe. Doch dürften auch diesmal in Deutschland lebende Türken mitentscheiden?
+   [[http://www.tagesschau.de/inland/referendum-todesstrafe-tuerkei-101.html]]
+
+
+** Stockholm: Anschlag fordert fünftes Opfer
+   [2017-04-28 Fri 09:59]
+   Vor knapp drei Wochen raste ein Attentäter mit einem Lkw in eine Menschenmenge vor einem Kaufhaus in Stockholm. Vier Menschen kamen bei dem Anschlag ums Leben. Nun ist eine weitere Frau an den erlittenen Verletzungen gestorben.
+   [[http://www.tagesschau.de/ausland/anschlag-stockholm-terror-101.html]]
+
+
+** China zu Nordkorea-Krise: Mit Peking gegen Pjöngjang
+   [2017-04-28 Fri 10:43]
+   China, der letzte Verbündete Nordkoreas, will gemeinsam mit den USA an einer Lösung der Korea-Krise arbeiten. Vorher hatte US-Außenminister Tillerson erklärt, auch Peking denke über Sanktionen gegen Nordkorea nach. Präsident Trump schloss eine weitere Eskalation nicht aus.
+   [[http://www.tagesschau.de/ausland/nordkorea-china-usa-101.html]]
+
+
+** Selbstfahrende Autos - China und Deutschland kooperieren
+   [2017-04-28 Fri 10:52]
+   Ins Auto setzen und sich vom Autopiloten chauffieren lassen - das ist einer der Trends auf der Shanghaier Automesse. Deutsche Hersteller sind mit ihren Technologien ganz vorn dabei, sagen Experten. Von Markus Pfalzgraf 
+   [[http://www.tagesschau.de/wirtschaft/selbstfahrende-auto-china-101.html]]
+
+
+** Geschäftsjahr 2016: Rekordverlust bei Air Berlin
+   [2017-04-28 Fri 11:56]
+   Air Berlin rutscht immer tiefer in die roten Zahlen: Im Geschäftsjahr 2016 hat die Fluggesellschaft einen Rekordverlust in Höhe von 782 Millionen Euro gemacht. Das Unternehmen gab sich zuversichtlich - obwohl das neue Jahr ebenfalls mit einem Verlust begann.
+   [[http://www.tagesschau.de/wirtschaft/air-berlin-rekordverlust-101.html]]
+
+
+** Livestream: Parteitag der FDP
+   [2017-04-28 Fri 11:58]
+   Die FDP ist seit 2013 nicht mehr im Bundestag vertreten - auf ihrem Parteitag will sie sich neu aufstellen. Verfolgen Sie die Rede von Parteichef Lindner hier im Livestream.
+   [[http://www.phoenix.de/livestream/]]
 
 
