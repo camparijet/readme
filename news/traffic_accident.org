@@ -1,0 +1,31 @@
+# Created 2017-05-02 Tue 09:42
+#+TITLE: Zwei Tote, ein flüchtiger Unfallverursacher
+#+AUTHOR: takeoka
+[2017-05-01 Mon 16:08]
+* Zwei Tote, ein flüchtiger Unfallverursacher | two death, one person responsible is runing away | 二人死亡、交通事故に関係した人物が逃走中
+[2017-05-01 Mon 16:08]
+Ein Krad- und ein Radfahrer sind bei Verkehrsunfällen in Südbrandenburg ums Leben gekommen. In einem Fall wurde Fahrerflucht begangen, die Polizei sucht Zeugen.
+
+[[http://www.bz-berlin.de/tatort/zwei-tote-ein-fluechtiger-unfallverursacher]]
+
+* tranlsation
+A motorcycle driver and a bicycle driver lost their life at the traffic accident in southern Brandenburg. In an accident, it was failed to stop, whom police is now looking for.
+
+* ほ
+
+* word
+- flüchtig
+  - fugitive
+    - running away
+- Verursacher
+  - person responsible
+- Kradfahrer
+  - motorcycle
+- ums Leben kommen
+  - loose one's life
+- Fahrerflucht begehen
+  - fail to stoop after (being involved in) an accident
+- Zeugen
+  - stuff
+
+# Emacs 25.0.92.2 (Org mode N/A)
