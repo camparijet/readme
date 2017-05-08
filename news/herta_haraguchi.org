@@ -1,0 +1,29 @@
+# Created 2017-05-08 Mon 09:12
+#+TITLE: Hertha setzt Flügelflitzer Haraguchi ein Ultimatum
+#+AUTHOR: takeoka
+[2017-05-02 Tue 09:19]
+* Hertha setzt Flügelflitzer Haraguchi ein Ultimatum | Herta requires Wingshooter Haraguchi his final decision | ヘルタ、原口選手に決断を迫る
+[2017-05-02 Tue 09:19]
+Haraguchis Kopf spielt verrückt, nachdem sein Ex-Berater Chiel Dekker ihm einen Wechsel auf die Insel empfahl
+
+[[http://www.bz-berlin.de/berlin-sport/hertha-bsc/hertha-setzt-fluegelflitzer-haraguchi-ein-ultimatum]]
+
+* Translation
+Haraguchi's mind is shifting, after his previous agenct Chiel Dekker recommended him a trade with the island ( Britain )
+
+* 翻訳
+原口の心は揺れている。彼の前任のエージェントがイギリスとのトレードを進めた後で。
+* word
+- Flügelfritzer
+- flitzen
+  - shoot
+- Flügel
+  - wing
+- Ultimatum
+  - ultimatum
+    - 最後通牒
+- verrücken
+  - move shift
+- 
+
+# Emacs 25.0.92.2 (Org mode N/A)
