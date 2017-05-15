@@ -1,0 +1,21 @@
+# Created 2017-05-15 Mon 10:16
+#+TITLE: Moon übernimmt Präsidentenamt in Südkorea:
+#+AUTHOR: takeoka
+* Moon übernimmt Präsidentenamt in Südkorea | Moon takes over President-role in South Korea | Moon氏が韓国大統領職を引き継ぐ
+
+In Südkorea ist der linksliberale Politiker Moon Jae In offiziell als Sieger der Präsidentenwahl bestätigt worden. Wie die Wahlkommission in Seoul mitteilte, erhielt Moon 41,1 Prozent der Stimmen. Die Wahl stand unter dem Eindruck des Korruptionsskandals um die abgesetzte Staatschefin Park Geun Hye sowie der wachsenden Spannungen im Atomstreit mit der kommunistischen Führung in Nordkorea. Moon will wieder an die Politik der Annäherung an Pjöngjang wie unter Südkoreas früheren liberalen Präsidenten anknüpfen.
+
+* word
+- übernehmen
+- bestätigen
+  - confirm
+- mitteilen
+  - tell something
+- erhielt
+  - stand
+- Eindruck
+  - impression
+- Spannung
+
+* translation
+In South Korea the left-wing politician, Moon Jae In, was officially confirmed as the winner of the president elections. As election commmisions reported, Moon acquired 41.1% agreement. The election happened under the impression of corruption scandal ex-President Park Geun Hye 
